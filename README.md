@@ -26,7 +26,7 @@ vsg_processing/
 └── prepare_data_and_plots.ipynb   # Notebook for exploratory analysis and figure generation
 ```
 
-> **Note**: The `de_analysis` directory is populated when the pipeline runs; add it to your `.gitignore` if you plan to regenerate outputs locally.
+> **Note**: The `de_analysis` directory is populated when the pipeline runs.
 
 ## End-to-end workflow
 
@@ -53,7 +53,7 @@ vsg_processing/
      --output-dir output
    ```
 
-The script logs progress and writes all derived files into the specified `output` directory. Regenerating the summary tables allows you to update the public-facing dashboards in a single command once fresh counts are available.
+The script logs progress and writes all derived files into the specified `output` directory. Regenerating the summary tables allows updating the public-facing dashboards in a single command once fresh counts are available.
 
 ## Quality assurance focus
 
@@ -61,17 +61,5 @@ The script logs progress and writes all derived files into the specified `output
 - **QC ratios**: The pipeline records the dominance of the main VSG and mitochondrial read fractions, helping identify mixed populations or sequencing artefacts.
 - **Traceable provenance**: All experiment-level differential expression tables remain accessible for manual review (`de_analysis/*.csv`).
 
-## Using the outputs downstream
-
-After the pipeline completes, sync the refreshed CSVs with the [`vsgs_web_server`](https://vsgs-web-server.pages.dev/) project (included here as a subdirectory) to update leaderboards, experiment rankings, and plots visible to collaborators. The notebook `prepare_data_and_plots.ipynb` demonstrates how to build bespoke visualisations from the same outputs, ensuring consistent stories across publications and web content.
-
-## Contributing
-
-Issues and pull requests are welcome! Please open a ticket describing any data quirks, automation ideas, or visualisation requests so we can keep the VSGs ecosystem aligned across repositories.
-
 ## Acknowledgements
-
-- myRNA-seq pipeline by [mtinti](https://github.com/mtinti/myRna-seq) for generating high-quality RNA-seq counts.
 - TriTrypDB for providing the genomic annotations powering gene descriptions.
-- The VSGs community for curating experiments and sharing datasets that drive continuous improvements to the leaderboard.
-
