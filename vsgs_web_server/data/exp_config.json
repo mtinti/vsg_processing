@@ -1,0 +1,1499 @@
+{
+    "BDF2_1_KO48": {
+        "experiment": "BDF2_1_KO48",
+        "controls": [
+            "SRR2154097"
+        ],
+        "treatments": [
+            "SRR2154098"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 26646171,
+        "title": "Bromodomain Proteins Contribute to Maintenance of Bloodstream Form Stage Identity in the African Trypanosome",
+        "fastq_type": "single"
+    },
+    "BDF3_1_KO24": {
+        "experiment": "BDF3_1_KO24",
+        "controls": [
+            "SRR2154093"
+        ],
+        "treatments": [
+            "SRR2154094"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 26646171,
+        "title": "Bromodomain Proteins Contribute to Maintenance of Bloodstream Form Stage Identity in the African Trypanosome",
+        "fastq_type": "single"
+    },
+    "BET151_1_Drug12h": {
+        "experiment": "BET151_1_Drug12h",
+        "controls": [
+            "SRR2154069"
+        ],
+        "treatments": [
+            "SRR2154095"
+        ],
+        "top_vsg": [
+            "Tb427VSG-3"
+        ],
+        "pubmed_id": 26646171,
+        "title": "Bromodomain Proteins Contribute to Maintenance of Bloodstream Form Stage Identity in the African Trypanosome",
+        "fastq_type": "single"
+    },
+    "BET151_1_Drug24h": {
+        "experiment": "BET151_1_Drug24h",
+        "controls": [
+            "SRR2154069"
+        ],
+        "treatments": [
+            "SRR2154096"
+        ],
+        "top_vsg": [
+            "Tb427VSG-3"
+        ],
+        "pubmed_id": 26646171,
+        "title": "Bromodomain Proteins Contribute to Maintenance of Bloodstream Form Stage Identity in the African Trypanosome",
+        "fastq_type": "single"
+    },
+    "BET151_1_Drug3h": {
+        "experiment": "BET151_1_Drug3h",
+        "controls": [
+            "SRR2154069"
+        ],
+        "treatments": [
+            "SRR2154091"
+        ],
+        "top_vsg": [
+            "Tb427VSG-3"
+        ],
+        "pubmed_id": 26646171,
+        "title": "Bromodomain Proteins Contribute to Maintenance of Bloodstream Form Stage Identity in the African Trypanosome",
+        "fastq_type": "single"
+    },
+    "BET151_1_Drug48h": {
+        "experiment": "BET151_1_Drug48h",
+        "controls": [
+            "SRR2154069"
+        ],
+        "treatments": [
+            "SRR2154088"
+        ],
+        "top_vsg": [
+            "Tb427VSG-3"
+        ],
+        "pubmed_id": 26646171,
+        "title": "Bromodomain Proteins Contribute to Maintenance of Bloodstream Form Stage Identity in the African Trypanosome",
+        "fastq_type": "single"
+    },
+    "BET151_1_Drug6h": {
+        "experiment": "BET151_1_Drug6h",
+        "controls": [
+            "SRR2154069"
+        ],
+        "treatments": [
+            "SRR2154092"
+        ],
+        "top_vsg": [
+            "Tb427VSG-3"
+        ],
+        "pubmed_id": 26646171,
+        "title": "Bromodomain Proteins Contribute to Maintenance of Bloodstream Form Stage Identity in the African Trypanosome",
+        "fastq_type": "single"
+    },
+    "BET151_1_Drug72h": {
+        "experiment": "BET151_1_Drug72h",
+        "controls": [
+            "SRR2154069"
+        ],
+        "treatments": [
+            "SRR2154089"
+        ],
+        "top_vsg": [
+            "Tb427VSG-3"
+        ],
+        "pubmed_id": 26646171,
+        "title": "Bromodomain Proteins Contribute to Maintenance of Bloodstream Form Stage Identity in the African Trypanosome",
+        "fastq_type": "single"
+    },
+    "CAF1b_1_RNAi24": {
+        "experiment": "CAF1b_1_RNAi24",
+        "controls": [
+            "ERR3447783",
+            "ERR3447784",
+            "ERR3447785",
+            "ERR3447786",
+            "ERR3447787",
+            "ERR3447788",
+            "ERR3447789",
+            "ERR3447790",
+            "ERR3447791",
+            "ERR3447792",
+            "ERR3447793",
+            "ERR3447794",
+            "ERR3447795",
+            "ERR3447796",
+            "ERR3447797",
+            "ERR3447798"
+        ],
+        "treatments": [
+            "ERR3447799",
+            "ERR3447800",
+            "ERR3447801",
+            "ERR3447802",
+            "ERR3447803",
+            "ERR3447804",
+            "ERR3447805",
+            "ERR3447806"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 31289266,
+        "title": "Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex ",
+        "fastq_type": "paired"
+    },
+    "CFB2_1_RNAi9": {
+        "experiment": "CFB2_1_RNAi9",
+        "controls": [
+            "ERR4704791",
+            "ERR4704794",
+            "ERR4704796",
+            "ERR4704792"
+        ],
+        "treatments": [
+            "ERR4704793",
+            "ERR4704795"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 33783358,
+        "title": "Functional insights from a surface antigen mRNA-bound proteome",
+        "fastq_type": "single"
+    },
+    "DFO_1_DFO": {
+        "experiment": "DFO_1_DFO",
+        "controls": [
+            "SRR12886090",
+            "SRR12886089",
+            "SRR12886080"
+        ],
+        "treatments": [
+            "SRR12886079",
+            "SRR12886078",
+            "SRR12886077"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 34161395,
+        "title": "Novel aspects of iron homeostasis in pathogenic bloodstream form Trypanosoma brucei",
+        "fastq_type": "paired"
+    },
+    "DFO_1_DFOFe": {
+        "experiment": "DFO_1_DFOFe",
+        "controls": [
+            "SRR12886090",
+            "SRR12886089",
+            "SRR12886080"
+        ],
+        "treatments": [
+            "SRR12886076",
+            "SRR12886075",
+            "SRR12886074"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 34161395,
+        "title": "Novel aspects of iron homeostasis in pathogenic bloodstream form Trypanosoma brucei",
+        "fastq_type": "paired"
+    },
+    "DFO_1_Fe": {
+        "experiment": "DFO_1_Fe",
+        "controls": [
+            "SRR12886090",
+            "SRR12886089",
+            "SRR12886080"
+        ],
+        "treatments": [
+            "SRR12886073",
+            "SRR12886088",
+            "SRR12886087"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 34161395,
+        "title": "Novel aspects of iron homeostasis in pathogenic bloodstream form Trypanosoma brucei",
+        "fastq_type": "paired"
+    },
+    "DRBD18_1_RNAi12": {
+        "experiment": "DRBD18_1_RNAi12",
+        "controls": [
+            "ERR4846467",
+            "ERR4846468",
+            "ERR4846469"
+        ],
+        "treatments": [
+            "ERR4846464",
+            "ERR4846465",
+            "ERR4846466"
+        ],
+        "top_vsg": [
+            "Tb427VSG-3"
+        ],
+        "pubmed_id": 35793904,
+        "title": "The Trypanosoma brucei RNA-binding protein DRBD18 ensures correct mRNA trans splicing and polyadenylation patterns",
+        "fastq_type": "single"
+    },
+    "H1_1_RNAi96": {
+        "experiment": "H1_1_RNAi96",
+        "controls": [
+            "ERR556937",
+            "ERR556938"
+        ],
+        "treatments": [
+            "ERR556936",
+            "ERR556939"
+        ],
+        "top_vsg": [
+            "Tb427VSG-9"
+        ],
+        "pubmed_id": 24946224,
+        "title": "Trypanosoma brucei histone H1 inhibits RNA polymerase I transcription and is important for parasite fitness in vivo",
+        "fastq_type": "paired"
+    },
+    "H3H4_1_KOH3": {
+        "experiment": "H3H4_1_KOH3",
+        "controls": [
+            "SRR14459737",
+            "SRR14459736",
+            "SRR14459725"
+        ],
+        "treatments": [
+            "SRR14459705",
+            "SRR14459704",
+            "SRR14459703"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 34722526,
+        "title": "Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei",
+        "fastq_type": "paired"
+    },
+    "H3H4_1_KOH3J": {
+        "experiment": "H3H4_1_KOH3J",
+        "controls": [
+            "SRR14459737",
+            "SRR14459736",
+            "SRR14459725"
+        ],
+        "treatments": [
+            "SRR14459702",
+            "SRR14459735",
+            "SRR14459734"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 34722526,
+        "title": "Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei",
+        "fastq_type": "paired"
+    },
+    "H3H4_1_KOH4": {
+        "experiment": "H3H4_1_KOH4",
+        "controls": [
+            "SRR14459737",
+            "SRR14459736",
+            "SRR14459725"
+        ],
+        "treatments": [
+            "SRR14459733",
+            "SRR14459732",
+            "SRR14459731"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 34722526,
+        "title": "Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei",
+        "fastq_type": "paired"
+    },
+    "H3H4_1_KOH4J": {
+        "experiment": "H3H4_1_KOH4J",
+        "controls": [
+            "SRR14459737",
+            "SRR14459736",
+            "SRR14459725"
+        ],
+        "treatments": [
+            "SRR14459730",
+            "SRR14459729",
+            "SRR14459728"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 34722526,
+        "title": "Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei",
+        "fastq_type": "paired"
+    },
+    "H3H4_1_KOJ2": {
+        "experiment": "H3H4_1_KOJ2",
+        "controls": [
+            "SRR14459737",
+            "SRR14459736",
+            "SRR14459725"
+        ],
+        "treatments": [
+            "SRR14459714",
+            "SRR14459707",
+            "SRR14459706"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 34722526,
+        "title": "Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei",
+        "fastq_type": "paired"
+    },
+    "H3H4_2_KO48": {
+        "experiment": "H3H4_2_KO48",
+        "controls": [
+            "SRR14459727",
+            "SRR14459726",
+            "SRR14459724"
+        ],
+        "treatments": [
+            "SRR14459723",
+            "SRR14459722",
+            "SRR14459721"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 34722526,
+        "title": "Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei",
+        "fastq_type": "paired"
+    },
+    "H3H4_3_KO48": {
+        "experiment": "H3H4_3_KO48",
+        "controls": [
+            "SRR14459720",
+            "SRR14459719",
+            "SRR14459718"
+        ],
+        "treatments": [
+            "SRR14459717",
+            "SRR14459716",
+            "SRR14459715"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 34722526,
+        "title": "Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei",
+        "fastq_type": "paired"
+    },
+    "H3_1_KOH3": {
+        "experiment": "H3_1_KOH3",
+        "controls": [
+            "SRR2982158",
+            "SRR2982159",
+            "SRR2982160"
+        ],
+        "treatments": [
+            "SRR2982251",
+            "SRR2982253",
+            "SRR2982254"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 26796638,
+        "title": "Base J and H3.V Regulate Transcriptional Termination in Trypanosoma brucei",
+        "fastq_type": "single"
+    },
+    "H3_1_KOH3J": {
+        "experiment": "H3_1_KOH3J",
+        "controls": [
+            "SRR2982158",
+            "SRR2982159",
+            "SRR2982160"
+        ],
+        "treatments": [
+            "SRR2982333",
+            "SRR2982334",
+            "SRR2982335"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 26796638,
+        "title": "Base J and H3.V Regulate Transcriptional Termination in Trypanosoma brucei",
+        "fastq_type": "single"
+    },
+    "H3_1_KOJ": {
+        "experiment": "H3_1_KOJ",
+        "controls": [
+            "SRR2982158",
+            "SRR2982159",
+            "SRR2982160"
+        ],
+        "treatments": [
+            "SRR2982203",
+            "SRR2982223",
+            "SRR2982242"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 26796638,
+        "title": "Base J and H3.V Regulate Transcriptional Termination in Trypanosoma brucei",
+        "fastq_type": "single"
+    },
+    "IPMK_1_RNAi36": {
+        "experiment": "IPMK_1_RNAi36",
+        "controls": [
+            "SRR5314672",
+            "SRR5315220"
+        ],
+        "treatments": [
+            "SRR5314671",
+            "SRR5315219"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 29491740,
+        "title": "Transcriptional Regulation of Telomeric Expression Sites and Antigenic Variation in Trypanosomes ",
+        "fastq_type": "single"
+    },
+    "IPMK_2_RNAi36": {
+        "experiment": "IPMK_2_RNAi36",
+        "controls": [
+            "SRR5253723"
+        ],
+        "treatments": [
+            "SRR5253722"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 29491740,
+        "title": "Transcriptional Regulation of Telomeric Expression Sites and Antigenic Variation in Trypanosomes ",
+        "fastq_type": "paired"
+    },
+    "MCMBP_1_KO24": {
+        "experiment": "MCMBP_1_KO24",
+        "controls": [
+            "SRR7653086",
+            "SRR7653087",
+            "SRR7653088",
+            "SRR7653089"
+        ],
+        "treatments": [
+            "SRR7653090",
+            "SRR7653091",
+            "SRR7653092",
+            "SRR7653093"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 30407533,
+        "title": "Genome-wide function of MCM-BP in Trypanosoma brucei DNA replication and transcription",
+        "fastq_type": "single"
+    },
+    "MCMBP_1_KO48": {
+        "experiment": "MCMBP_1_KO48",
+        "controls": [
+            "SRR7653086",
+            "SRR7653087",
+            "SRR7653088",
+            "SRR7653089"
+        ],
+        "treatments": [
+            "SRR7653094",
+            "SRR7653095",
+            "SRR7653096",
+            "SRR7653097"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 30407533,
+        "title": "Genome-wide function of MCM-BP in Trypanosoma brucei DNA replication and transcription",
+        "fastq_type": "single"
+    },
+    "PIP5Pase_1_KO": {
+        "experiment": "PIP5Pase_1_KO",
+        "controls": [
+            "SRR7401111"
+        ],
+        "treatments": [
+            "SRR7401112"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2",
+            "Tb427VSG-11"
+        ],
+        "pubmed_id": 30420356,
+        "title": "Nuclear Phosphatidylinositol 5-Phosphatase Is Essential for Allelic Exclusion of Variant Surface Glycoprotein Genes in Trypanosomes ",
+        "fastq_type": "single"
+    },
+    "PIP5Pase_2_D360A_N362A": {
+        "experiment": "PIP5Pase_2_D360A_N362A",
+        "controls": [
+            "SRR23839022",
+            "SRR23839021",
+            "SRR23839020"
+        ],
+        "treatments": [
+            "SRR23839019",
+            "SRR23839018",
+            "SRR23839017"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2",
+            "Tb427VSG-567"
+        ],
+        "pubmed_id": 38019264,
+        "title": "PI(3,4,5)P3 allosteric regulation of repressor activator protein 1 controls antigenic variation in trypanosomes ",
+        "fastq_type": "nanopore"
+    },
+    "PNUTS_1_RNAi48": {
+        "experiment": "PNUTS_1_RNAi48",
+        "controls": [
+            "SRR9951065",
+            "SRR9951061",
+            "SRR9951063"
+        ],
+        "treatments": [
+            "SRR9951062",
+            "SRR9951064",
+            "SRR9951066"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 32084124,
+        "title": "Functional insights from a surface antigen mRNA-bound proteome",
+        "fastq_type": "single"
+    },
+    "RBP10_1_RNAi24": {
+        "experiment": "RBP10_1_RNAi24",
+        "controls": [
+            "ERR1328278",
+            "ERR1328279"
+        ],
+        "treatments": [
+            "ERR1328272",
+            "ERR1328273"
+        ],
+        "top_vsg": [
+            "Tb427VSG-9"
+        ],
+        "pubmed_id": 30381351,
+        "title": "Glucose Signaling Is Important for Nutrient Adaptation during Differentiation of Pleomorphic African Trypanosomes",
+        "fastq_type": "single"
+    },
+    "RBP10_2_RNAi24": {
+        "experiment": "RBP10_2_RNAi24",
+        "controls": [
+            "ERR1328280",
+            "ERR1328281"
+        ],
+        "treatments": [
+            "ERR1328274",
+            "ERR1328275"
+        ],
+        "top_vsg": [
+            "Tb427VSG-9"
+        ],
+        "pubmed_id": 30381351,
+        "title": "Glucose Signaling Is Important for Nutrient Adaptation during Differentiation of Pleomorphic African Trypanosomes",
+        "fastq_type": "single"
+    },
+    "RBP10_3_RNAi24": {
+        "experiment": "RBP10_3_RNAi24",
+        "controls": [
+            "ERR1328282",
+            "ERR1328283"
+        ],
+        "treatments": [
+            "ERR1328276",
+            "ERR1328277"
+        ],
+        "top_vsg": [
+            "Tb427VSG-9"
+        ],
+        "pubmed_id": 30381351,
+        "title": "Glucose Signaling Is Important for Nutrient Adaptation during Differentiation of Pleomorphic African Trypanosomes",
+        "fastq_type": "single"
+    },
+    "RBP33_1_RNAi48": {
+        "experiment": "RBP33_1_RNAi48",
+        "controls": [
+            "SRR16573965",
+            "SRR16573966",
+            "SRR16573967"
+        ],
+        "treatments": [
+            "SRR16573968",
+            "SRR16573969",
+            "SRR16573970"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 36454008,
+        "title": "The RNA-binding protein RBP33 dampens non-productive transcription in trypanosomes ",
+        "fastq_type": "paired"
+    },
+    "RBP42_1_KO24": {
+        "experiment": "RBP42_1_KO24",
+        "controls": [
+            "SRR14768796",
+            "SRR14768795",
+            "SRR14768794"
+        ],
+        "treatments": [
+            "SRR14768793",
+            "SRR14768792",
+            "SRR14768791"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 37581443,
+        "title": "The RNA-binding protein RBP42 regulates cellular energy metabolism in mammalian-infective Trypanosoma brucei",
+        "fastq_type": "single"
+    },
+    "RBP42_1_KO48": {
+        "experiment": "RBP42_1_KO48",
+        "controls": [
+            "SRR14768796",
+            "SRR14768795",
+            "SRR14768794"
+        ],
+        "treatments": [
+            "SRR14768804",
+            "SRR14768803",
+            "SRR14768802"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 37581443,
+        "title": "The RNA-binding protein RBP42 regulates cellular energy metabolism in mammalian-infective Trypanosoma brucei",
+        "fastq_type": "single"
+    },
+    "RBP42_1_KO72": {
+        "experiment": "RBP42_1_KO72",
+        "controls": [
+            "SRR14768796",
+            "SRR14768795",
+            "SRR14768794"
+        ],
+        "treatments": [
+            "SRR14768801",
+            "SRR14768800",
+            "SRR14768799"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 37581443,
+        "title": "The RNA-binding protein RBP42 regulates cellular energy metabolism in mammalian-infective Trypanosoma brucei",
+        "fastq_type": "single"
+    },
+    "RNaseH1_1_KO": {
+        "experiment": "RNaseH1_1_KO",
+        "controls": [
+            "ERR2812445"
+        ],
+        "treatments": [
+            "ERR2812444"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 30543624,
+        "title": "Ribonuclease H1-targeted R-loops in surface antigen gene expression sites can direct trypanosome immune evasion",
+        "fastq_type": "paired"
+    },
+    "RNaseH2A_1_RNAi24": {
+        "experiment": "RNaseH2A_1_RNAi24",
+        "controls": [
+            "ERR3014707",
+            "ERR3014708"
+        ],
+        "treatments": [
+            "ERR3014709",
+            "ERR3014710"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 31350892,
+        "title": "Trypanosoma brucei ribonuclease H2A is an essential R-loop processing enzyme whose loss causes DNA damage during transcription initiation and antigenic variation",
+        "fastq_type": "paired"
+    },
+    "RNaseH2A_2_RNAi36": {
+        "experiment": "RNaseH2A_2_RNAi36",
+        "controls": [
+            "ERR3014711",
+            "ERR3014712"
+        ],
+        "treatments": [
+            "ERR3014713",
+            "ERR3014714"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 31350892,
+        "title": "Trypanosoma brucei ribonuclease H2A is an essential R-loop processing enzyme whose loss causes DNA damage during transcription initiation and antigenic variation",
+        "fastq_type": "paired"
+    },
+    "SET27_1_KO": {
+        "experiment": "SET27_1_KO",
+        "controls": [
+            "SRR20081822",
+            "SRR20081826"
+        ],
+        "treatments": [
+            "SRR20081821",
+            "SRR20081827",
+            "SRR20081829"
+        ],
+        "top_vsg": [
+            "Tb427VSG-1"
+        ],
+        "pubmed_id": 36169304,
+        "title": "The SPARC complex defines RNAPII promoters in Trypanosoma brucei",
+        "fastq_type": "paired"
+    },
+    "SET27_1_sKO": {
+        "experiment": "SET27_1_sKO",
+        "controls": [
+            "SRR20081822",
+            "SRR20081826"
+        ],
+        "treatments": [
+            "SRR20081828",
+            "SRR20081823",
+            "SRR20081820"
+        ],
+        "top_vsg": [
+            "Tb427VSG-1"
+        ],
+        "pubmed_id": 36169304,
+        "title": "The SPARC complex defines RNAPII promoters in Trypanosoma brucei",
+        "fastq_type": "paired"
+    },
+    "SNF2PH_1_RNAi48": {
+        "experiment": "SNF2PH_1_RNAi48",
+        "controls": [
+            "SRR10034555",
+            "SRR10034554"
+        ],
+        "treatments": [
+            "SRR10034553",
+            "SRR10034552"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 31693280,
+        "title": "SUMOylated SNF2PH promotes variant surface glycoprotein expression in bloodstream trypanosomes ",
+        "fastq_type": "paired"
+    },
+    "TFR_1_RNAi24": {
+        "experiment": "TFR_1_RNAi24",
+        "controls": [
+            "SRR12886086",
+            "SRR12886085",
+            "SRR12886084"
+        ],
+        "treatments": [
+            "SRR12886083",
+            "SRR12886082",
+            "SRR12886081"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 34161395,
+        "title": "Novel aspects of iron homeostasis in pathogenic bloodstream form Trypanosoma brucei",
+        "fastq_type": "single"
+    },
+    "TbATR_1_RNAi24": {
+        "experiment": "TbATR_1_RNAi24",
+        "controls": [
+            "ERR2222763",
+            "ERR2222767",
+            "ERR2222771"
+        ],
+        "treatments": [
+            "ERR2222764",
+            "ERR2222768",
+            "ERR2222772"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 31968257,
+        "title": "Trypanosoma brucei ATR Links DNA Damage Signaling during Antigenic Variation with Regulation of RNA Polymerase I-Transcribed Surface Antigens",
+        "fastq_type": "paired"
+    },
+    "TbATR_2_RNAi36": {
+        "experiment": "TbATR_2_RNAi36",
+        "controls": [
+            "ERR2222765",
+            "ERR2222769",
+            "ERR2222773"
+        ],
+        "treatments": [
+            "ERR2222766",
+            "ERR2222770",
+            "ERR2222774"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 31968257,
+        "title": "Trypanosoma brucei ATR Links DNA Damage Signaling during Antigenic Variation with Regulation of RNA Polymerase I-Transcribed Surface Antigens",
+        "fastq_type": "paired"
+    },
+    "TbESB1_1_RNAi24": {
+        "experiment": "TbESB1_1_RNAi24",
+        "controls": [
+            "SRR17052113",
+            "SRR19091061",
+            "SRR19091060",
+            "SRR19091049"
+        ],
+        "treatments": [
+            "SRR17052082",
+            "SRR19091042",
+            "SRR19091041",
+            "SRR19091040"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 35879525,
+        "title": "Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei",
+        "fastq_type": "paired"
+    },
+    "TbESB1_2_KO48": {
+        "experiment": "TbESB1_2_KO48",
+        "controls": [
+            "SRR17052110",
+            "SRR19091057",
+            "SRR19091056",
+            "SRR19091055"
+        ],
+        "treatments": [
+            "SRR17052107",
+            "SRR19091054",
+            "SRR19091053",
+            "SRR19091052"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 35879525,
+        "title": "Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei",
+        "fastq_type": "paired"
+    },
+    "TbESB1_3_OE24": {
+        "experiment": "TbESB1_3_OE24",
+        "controls": [
+            "SRR17052122",
+            "SRR19091039",
+            "SRR19091038",
+            "SRR19091037"
+        ],
+        "treatments": [
+            "SRR17052116",
+            "SRR19091036",
+            "SRR19091059",
+            "SRR19091058"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 35879525,
+        "title": "Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei",
+        "fastq_type": "paired"
+    },
+    "TbHAT_1_RNAi48HAT1": {
+        "experiment": "TbHAT_1_RNAi48HAT1",
+        "controls": [
+            "SRR11122981",
+            "SRR11122982",
+            "SRR11122983"
+        ],
+        "treatments": [
+            "SRR11122987",
+            "SRR11122988",
+            "SRR11122989"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 32198348,
+        "title": "Distinct roles for H4 and H2A.Z acetylation in RNA transcription in African trypanosomes ",
+        "fastq_type": "paired"
+    },
+    "TbHAT_1_RNAi48HAT2": {
+        "experiment": "TbHAT_1_RNAi48HAT2",
+        "controls": [
+            "SRR11122981",
+            "SRR11122982",
+            "SRR11122983"
+        ],
+        "treatments": [
+            "SRR11122984",
+            "SRR11122985",
+            "SRR11122986"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 32198348,
+        "title": "Distinct roles for H4 and H2A.Z acetylation in RNA transcription in African trypanosomes ",
+        "fastq_type": "paired"
+    },
+    "TbPP1one_1_RNAi24": {
+        "experiment": "TbPP1one_1_RNAi24",
+        "controls": [
+            "SRR26338096",
+            "SRR26338091",
+            "SRR26338095"
+        ],
+        "treatments": [
+            "SRR26338092",
+            "SRR26338093",
+            "SRR26338094"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 38783162,
+        "title": "Protein phosphatase PP1 regulation of RNA polymerase II transcription termination and allelic exclusion of VSG genes in trypanosomes",
+        "fastq_type": "paired"
+    },
+    "TbPP1seven_1_RNAi24": {
+        "experiment": "TbPP1seven_1_RNAi24",
+        "controls": [
+            "SRR26338086",
+            "SRR26338087",
+            "SRR26338085"
+        ],
+        "treatments": [
+            "SRR26338088",
+            "SRR26338089",
+            "SRR26338090"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 38783162,
+        "title": "Protein phosphatase PP1 regulation of RNA polymerase II transcription termination and allelic exclusion of VSG genes in trypanosomes",
+        "fastq_type": "paired"
+    },
+    "TbRAP1_1_2SD": {
+        "experiment": "TbRAP1_1_2SD",
+        "controls": [
+            "SRR11449135",
+            "SRR11449136",
+            "SRR11449137"
+        ],
+        "treatments": [
+            "SRR11449144",
+            "SRR11449145",
+            "SRR11449146"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 32948591,
+        "title": "TbRAP1 has an unusual duplex DNA binding activity required for its telomere localization and VSG silencing",
+        "fastq_type": "paired"
+    },
+    "TbRAP1_1_5A": {
+        "experiment": "TbRAP1_1_5A",
+        "controls": [
+            "SRR11449135",
+            "SRR11449136",
+            "SRR11449137"
+        ],
+        "treatments": [
+            "SRR11449141",
+            "SRR11449142",
+            "SRR11449143"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 32948591,
+        "title": "TbRAP1 has an unusual duplex DNA binding activity required for its telomere localization and VSG silencing",
+        "fastq_type": "paired"
+    },
+    "TbRAP1_1_KO": {
+        "experiment": "TbRAP1_1_KO",
+        "controls": [
+            "SRR11449135",
+            "SRR11449136",
+            "SRR11449137"
+        ],
+        "treatments": [
+            "SRR11449138",
+            "SRR11449139",
+            "SRR11449140"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 32948591,
+        "title": "TbRAP1 has an unusual duplex DNA binding activity required for its telomere localization and VSG silencing",
+        "fastq_type": "paired"
+    },
+    "TbRAP1_2_dMyb": {
+        "experiment": "TbRAP1_2_dMyb",
+        "controls": [
+            "SRR10871270",
+            "SRR10871271",
+            "SRR10871272"
+        ],
+        "treatments": [
+            "SRR10871273",
+            "SRR10871274",
+            "SRR10871275"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 32102938,
+        "title": "Trypanosoma brucei RAP1 Has Essential Functional Domains That Are Required for Different Protein Interactions",
+        "fastq_type": "paired"
+    },
+    "TbSAP_1_RNAi72": {
+        "experiment": "TbSAP_1_RNAi72",
+        "controls": [
+            "SRR12971333",
+            "SRR12971334",
+            "SRR12971335"
+        ],
+        "treatments": [
+            "SRR12971336",
+            "SRR12971337",
+            "SRR12971338"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 33660774,
+        "title": "TbSAP is a novel chromatin protein repressing metacyclic variant surface glycoprotein expression sites in bloodstream form Trypanosoma brucei",
+        "fastq_type": "paired"
+    },
+    "VEX1_1_Oe72": {
+        "experiment": "VEX1_1_Oe72",
+        "controls": [
+            "ERR1413153",
+            "ERR1413154",
+            "ERR1395522",
+            "ERR1395523"
+        ],
+        "treatments": [
+            "ERR1395524",
+            "ERR1395525"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 27226299,
+        "title": "VEX1 controls the allelic exclusion required for antigenic variation in trypanosomes",
+        "fastq_type": "paired"
+    },
+    "VEX1_2_RNAi72": {
+        "experiment": "VEX1_2_RNAi72",
+        "controls": [
+            "ERR789033",
+            "ERR789034"
+        ],
+        "treatments": [
+            "ERR789035",
+            "ERR789036"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 27226299,
+        "title": "VEX1 controls the allelic exclusion required for antigenic variation in trypanosomes",
+        "fastq_type": "paired"
+    },
+    "VEX1_4_RNAi24": {
+        "experiment": "VEX1_4_RNAi24",
+        "controls": [
+            "SRR17052104"
+        ],
+        "treatments": [
+            "SRR17052100"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 35879525,
+        "title": "Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei",
+        "fastq_type": "paired"
+    },
+    "VEX1_5_RNAi48": {
+        "experiment": "VEX1_5_RNAi48",
+        "controls": [
+            "SRR17052103"
+        ],
+        "treatments": [
+            "SRR17052099"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 35879525,
+        "title": "Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei",
+        "fastq_type": "paired"
+    },
+    "VEX1_6_RNAi72": {
+        "experiment": "VEX1_6_RNAi72",
+        "controls": [
+            "SRR17052101"
+        ],
+        "treatments": [
+            "SRR17052098"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 35879525,
+        "title": "Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei",
+        "fastq_type": "paired"
+    },
+    "VEX1and2_1_RNAi24": {
+        "experiment": "VEX1and2_1_RNAi24",
+        "controls": [
+            "ERR3447807",
+            "ERR3447808",
+            "ERR3447809",
+            "ERR3447810",
+            "ERR3447811",
+            "ERR3447812",
+            "ERR3447813",
+            "ERR3447814",
+            "ERR3447815",
+            "ERR3447816",
+            "ERR3447817",
+            "ERR3447818",
+            "ERR3447819",
+            "ERR3447820",
+            "ERR3447821",
+            "ERR3447822",
+            "ERR3447823",
+            "ERR3447824",
+            "ERR3447825",
+            "ERR3447826",
+            "ERR3447827",
+            "ERR3447828",
+            "ERR3447829",
+            "ERR3447830"
+        ],
+        "treatments": [
+            "ERR3447831",
+            "ERR3447832",
+            "ERR3447833",
+            "ERR3447834",
+            "ERR3447835",
+            "ERR3447836",
+            "ERR3447837",
+            "ERR3447838",
+            "ERR3447839",
+            "ERR3447840",
+            "ERR3447841",
+            "ERR3447842"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 31289266,
+        "title": "Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex ",
+        "fastq_type": "paired"
+    },
+    "VEX1and2_1_RNAi48": {
+        "experiment": "VEX1and2_1_RNAi48",
+        "controls": [
+            "ERR3447807",
+            "ERR3447808",
+            "ERR3447809",
+            "ERR3447810",
+            "ERR3447811",
+            "ERR3447812",
+            "ERR3447813",
+            "ERR3447814",
+            "ERR3447815",
+            "ERR3447816",
+            "ERR3447817",
+            "ERR3447818",
+            "ERR3447819",
+            "ERR3447820",
+            "ERR3447821",
+            "ERR3447822",
+            "ERR3447823",
+            "ERR3447824",
+            "ERR3447825",
+            "ERR3447826",
+            "ERR3447827",
+            "ERR3447828",
+            "ERR3447829",
+            "ERR3447830"
+        ],
+        "treatments": [
+            "ERR3447843",
+            "ERR3447844",
+            "ERR3447845",
+            "ERR3447846",
+            "ERR3447847",
+            "ERR3447848",
+            "ERR3447849",
+            "ERR3447850",
+            "ERR3447851",
+            "ERR3447852",
+            "ERR3447853",
+            "ERR3447854"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 31289266,
+        "title": "Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex ",
+        "fastq_type": "paired"
+    },
+    "VEX2_1_RNAi24": {
+        "experiment": "VEX2_1_RNAi24",
+        "controls": [
+            "ERR3447773",
+            "ERR3447772",
+            "ERR3447771",
+            "ERR3447774",
+            "ERR3447775",
+            "ERR3447776"
+        ],
+        "treatments": [
+            "ERR3447777",
+            "ERR3447778",
+            "ERR3447779"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 31289266,
+        "title": "Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex ",
+        "fastq_type": "paired"
+    },
+    "VEX2_1_RNAi48": {
+        "experiment": "VEX2_1_RNAi48",
+        "controls": [
+            "ERR3447773",
+            "ERR3447772",
+            "ERR3447771",
+            "ERR3447774",
+            "ERR3447775",
+            "ERR3447776"
+        ],
+        "treatments": [
+            "ERR3447780",
+            "ERR3447781",
+            "ERR3447782"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 31289266,
+        "title": "Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex ",
+        "fastq_type": "paired"
+    },
+    "ZC3H28_1_RNAi10": {
+        "experiment": "ZC3H28_1_RNAi10",
+        "controls": [
+            "ERR6325900",
+            "ERR6325901",
+            "ERR6325902",
+            "ERR6325903",
+            "ERR6325904"
+        ],
+        "treatments": [
+            "ERR6325891",
+            "ERR6325892",
+            "ERR6325893"
+        ],
+        "top_vsg": [
+            "Tb427VSG-3"
+        ],
+        "pubmed_id": 35264260,
+        "title": "Interactions of the Trypanosoma brucei brucei zinc-finger-domain protein ZC3H28",
+        "fastq_type": "single"
+    },
+    "ZC3H28_1_RNAi14": {
+        "experiment": "ZC3H28_1_RNAi14",
+        "controls": [
+            "ERR6325900",
+            "ERR6325901",
+            "ERR6325902",
+            "ERR6325903",
+            "ERR6325904"
+        ],
+        "treatments": [
+            "ERR6325894",
+            "ERR6325895"
+        ],
+        "top_vsg": [
+            "Tb427VSG-3"
+        ],
+        "pubmed_id": 35264260,
+        "title": "Interactions of the Trypanosoma brucei brucei zinc-finger-domain protein ZC3H28",
+        "fastq_type": "single"
+    },
+    "ZC3H28_1_RNAi16": {
+        "experiment": "ZC3H28_1_RNAi16",
+        "controls": [
+            "ERR6325900",
+            "ERR6325901",
+            "ERR6325902",
+            "ERR6325903",
+            "ERR6325904"
+        ],
+        "treatments": [
+            "ERR6325896",
+            "ERR6325897"
+        ],
+        "top_vsg": [
+            "Tb427VSG-3"
+        ],
+        "pubmed_id": 35264260,
+        "title": "Interactions of the Trypanosoma brucei brucei zinc-finger-domain protein ZC3H28",
+        "fastq_type": "single"
+    },
+    "ZC3H28_1_RNAi24": {
+        "experiment": "ZC3H28_1_RNAi24",
+        "controls": [
+            "ERR6325900",
+            "ERR6325901",
+            "ERR6325902",
+            "ERR6325903",
+            "ERR6325904"
+        ],
+        "treatments": [
+            "ERR6325898",
+            "ERR6325899"
+        ],
+        "top_vsg": [
+            "Tb427VSG-3"
+        ],
+        "pubmed_id": 35264260,
+        "title": "Interactions of the Trypanosoma brucei brucei zinc-finger-domain protein ZC3H28",
+        "fastq_type": "single"
+    },
+    "ZC3H40_1_RNAi72": {
+        "experiment": "ZC3H40_1_RNAi72",
+        "controls": [
+            "ERR3383643",
+            "ERR3383645"
+        ],
+        "treatments": [
+            "ERR3383644",
+            "ERR3383646"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 31127277,
+        "title": "A post-transcriptional respiratome regulon in trypanosomes ",
+        "fastq_type": "paired"
+    },
+    "ZC3H5_2_RNAi12": {
+        "experiment": "ZC3H5_2_RNAi12",
+        "controls": [
+            "ERR3380213",
+            "ERR3380217"
+        ],
+        "treatments": [
+            "ERR3380229",
+            "ERR3380233"
+        ],
+        "top_vsg": [
+            "Tb427VSG-22"
+        ],
+        "pubmed_id": 32763974,
+        "title": "A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei",
+        "fastq_type": "single"
+    },
+    "ZC3H5_3_RNAi12": {
+        "experiment": "ZC3H5_3_RNAi12",
+        "controls": [
+            "ERR3380216",
+            "ERR3380220"
+        ],
+        "treatments": [
+            "ERR3380232",
+            "ERR3380236"
+        ],
+        "top_vsg": [
+            "Tb427VSG-22"
+        ],
+        "pubmed_id": 32763974,
+        "title": "A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei",
+        "fastq_type": "single"
+    },
+    "ZC3H5_4_RNAi12": {
+        "experiment": "ZC3H5_4_RNAi12",
+        "controls": [
+            "ERR3380215",
+            "ERR3380219"
+        ],
+        "treatments": [
+            "ERR3380231",
+            "ERR3380235"
+        ],
+        "top_vsg": [
+            "Tb427VSG-22"
+        ],
+        "pubmed_id": 32763974,
+        "title": "A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei",
+        "fastq_type": "single"
+    },
+    "ZC3H5_5_RNAi12": {
+        "experiment": "ZC3H5_5_RNAi12",
+        "controls": [
+            "ERR3380214",
+            "ERR3380218"
+        ],
+        "treatments": [
+            "ERR3380230",
+            "ERR3380234"
+        ],
+        "top_vsg": [
+            "Tb427VSG-22"
+        ],
+        "pubmed_id": 32763974,
+        "title": "A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei",
+        "fastq_type": "single"
+    }
+}

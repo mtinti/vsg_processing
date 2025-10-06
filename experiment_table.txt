@@ -1,0 +1,470 @@
+PMID	Title	Folder_Info	Proposedcondition	Proposed_Experiment_Name	Proposed_replica	Projec	SRA_id	FASTQ_TYPE	notes	strand
+32948591	TbRAP1 has an unusual duplex DNA binding activity required for its telomere localization and VSG silencing	TbRAP1_1	KO	TbRAP1_1	1	PRJNA616268	SRR11449138	PAIRED		
+32948591	TbRAP1 has an unusual duplex DNA binding activity required for its telomere localization and VSG silencing	TbRAP1_1	KO	TbRAP1_1	2	PRJNA616268	SRR11449139	PAIRED		
+32948591	TbRAP1 has an unusual duplex DNA binding activity required for its telomere localization and VSG silencing	TbRAP1_1	KO	TbRAP1_1	3	PRJNA616268	SRR11449140	PAIRED		
+32948591	TbRAP1 has an unusual duplex DNA binding activity required for its telomere localization and VSG silencing	TbRAP1_1	Control	TbRAP1_1	1	PRJNA616268	SRR11449135	PAIRED		
+32948591	TbRAP1 has an unusual duplex DNA binding activity required for its telomere localization and VSG silencing	TbRAP1_1	Control	TbRAP1_1	2	PRJNA616268	SRR11449136	PAIRED		
+32948591	TbRAP1 has an unusual duplex DNA binding activity required for its telomere localization and VSG silencing	TbRAP1_1	Control	TbRAP1_1	3	PRJNA616268	SRR11449137	PAIRED		
+32948591	TbRAP1 has an unusual duplex DNA binding activity required for its telomere localization and VSG silencing	TbRAP1_1	5A	TbRAP1_1	1	PRJNA616268	SRR11449141	PAIRED		
+32948591	TbRAP1 has an unusual duplex DNA binding activity required for its telomere localization and VSG silencing	TbRAP1_1	5A	TbRAP1_1	2	PRJNA616268	SRR11449142	PAIRED		
+32948591	TbRAP1 has an unusual duplex DNA binding activity required for its telomere localization and VSG silencing	TbRAP1_1	5A	TbRAP1_1	3	PRJNA616268	SRR11449143	PAIRED		
+32948591	TbRAP1 has an unusual duplex DNA binding activity required for its telomere localization and VSG silencing	TbRAP1_1	2SD	TbRAP1_1	1	PRJNA616268	SRR11449144	PAIRED		
+32948591	TbRAP1 has an unusual duplex DNA binding activity required for its telomere localization and VSG silencing	TbRAP1_1	2SD	TbRAP1_1	2	PRJNA616268	SRR11449145	PAIRED		
+32948591	TbRAP1 has an unusual duplex DNA binding activity required for its telomere localization and VSG silencing	TbRAP1_1	2SD	TbRAP1_1	3	PRJNA616268	SRR11449146	PAIRED		
+										
+32102938	Trypanosoma brucei RAP1 Has Essential Functional Domains That Are Required for Different Protein Interactions	TbRAP1_2	dMyb	TbRAP1_2	1	PRJNA600534	SRR10871273	PAIRED		
+32102938	Trypanosoma brucei RAP1 Has Essential Functional Domains That Are Required for Different Protein Interactions	TbRAP1_2	dMyb	TbRAP1_2	2	PRJNA600535	SRR10871274	PAIRED		
+32102938	Trypanosoma brucei RAP1 Has Essential Functional Domains That Are Required for Different Protein Interactions	TbRAP1_2	dMyb	TbRAP1_2	3	PRJNA600536	SRR10871275	PAIRED		
+32102938	Trypanosoma brucei RAP1 Has Essential Functional Domains That Are Required for Different Protein Interactions	TbRAP1_2	Control	TbRAP1_2	1	PRJNA600537	SRR10871270	PAIRED		
+32102938	Trypanosoma brucei RAP1 Has Essential Functional Domains That Are Required for Different Protein Interactions	TbRAP1_2	Control	TbRAP1_2	2	PRJNA600538	SRR10871271	PAIRED		
+32102938	Trypanosoma brucei RAP1 Has Essential Functional Domains That Are Required for Different Protein Interactions	TbRAP1_2	Control	TbRAP1_2	3	PRJNA600538	SRR10871272	PAIRED		
+										
+33660774	TbSAP is a novel chromatin protein repressing metacyclic variant surface glycoprotein expression sites in bloodstream form Trypanosoma brucei	TbSAP_1	RNAi72	TbSAP_1	1	PRJNA674063	SRR12971336	PAIRED		
+33660774	TbSAP is a novel chromatin protein repressing metacyclic variant surface glycoprotein expression sites in bloodstream form Trypanosoma brucei	TbSAP_1	RNAi72	TbSAP_1	2	PRJNA674063	SRR12971337	PAIRED		
+33660774	TbSAP is a novel chromatin protein repressing metacyclic variant surface glycoprotein expression sites in bloodstream form Trypanosoma brucei	TbSAP_1	RNAi72	TbSAP_1	3	PRJNA674063	SRR12971338	PAIRED		
+33660774	TbSAP is a novel chromatin protein repressing metacyclic variant surface glycoprotein expression sites in bloodstream form Trypanosoma brucei	TbSAP_1	ControlUN	TbSAP_1	1	PRJNA674063	SRR12971333	PAIRED		
+33660774	TbSAP is a novel chromatin protein repressing metacyclic variant surface glycoprotein expression sites in bloodstream form Trypanosoma brucei	TbSAP_1	ControlUN	TbSAP_1	2	PRJNA674063	SRR12971334	PAIRED		
+33660774	TbSAP is a novel chromatin protein repressing metacyclic variant surface glycoprotein expression sites in bloodstream form Trypanosoma brucei	TbSAP_1	ControlUN	TbSAP_1	3	PRJNA674063	SRR12971335	PAIRED		
+										
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	Control	VEX2_1	1	PRJEB21615	ERR3447773	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	Control	VEX2_1	2	PRJEB21615	ERR3447772	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	Control	VEX2_1	3	PRJEB21615	ERR3447771	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	ControlUN	VEX2_1	1	PRJEB21615	ERR3447774	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	ControlUN	VEX2_1	2	PRJEB21615	ERR3447775	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	ControlUN	VEX2_1	3	PRJEB21615	ERR3447776	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi24	VEX2_1	1	PRJEB21615	ERR3447777	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi24	VEX2_1	2	PRJEB21615	ERR3447778	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi24	VEX2_1	3	PRJEB21615	ERR3447779	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi48	VEX2_1	1	PRJEB21615	ERR3447780	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi48	VEX2_1	2	PRJEB21615	ERR3447781	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi48	VEX2_1	3	PRJEB21615	ERR3447782	PAIRED	BAMdeposited	
+										
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	Control	CAF1b_1	1	PRJEB21615	ERR3447783	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	Control	CAF1b_1	1	PRJEB21615	ERR3447784	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	Control	CAF1b_1	1	PRJEB21615	ERR3447785	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	Control	CAF1b_1	1	PRJEB21615	ERR3447786	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	Control	CAF1b_1	2	PRJEB21615	ERR3447787	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	Control	CAF1b_1	2	PRJEB21615	ERR3447788	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	Control	CAF1b_1	2	PRJEB21615	ERR3447789	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	Control	CAF1b_1	2	PRJEB21615	ERR3447790	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	ControlUN	CAF1b_1	1	PRJEB21615	ERR3447791	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	ControlUN	CAF1b_1	1	PRJEB21615	ERR3447792	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	ControlUN	CAF1b_1	1	PRJEB21615	ERR3447793	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	ControlUN	CAF1b_1	1	PRJEB21615	ERR3447794	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	ControlUN	CAF1b_1	2	PRJEB21615	ERR3447795	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	ControlUN	CAF1b_1	2	PRJEB21615	ERR3447796	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	ControlUN	CAF1b_1	2	PRJEB21615	ERR3447797	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	ControlUN	CAF1b_1	2	PRJEB21615	ERR3447798	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi24	CAF1b_1	1	PRJEB21615	ERR3447799	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi24	CAF1b_1	1	PRJEB21615	ERR3447800	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi24	CAF1b_1	1	PRJEB21615	ERR3447801	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi24	CAF1b_1	1	PRJEB21615	ERR3447802	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi24	CAF1b_1	2	PRJEB21615	ERR3447803	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi24	CAF1b_1	2	PRJEB21615	ERR3447804	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi24	CAF1b_1	2	PRJEB21615	ERR3447805	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi24	CAF1b_1	2	PRJEB21615	ERR3447806	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	Control	VEX1and2_1	1	PRJEB21615	ERR3447807	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	Control	VEX1and2_1	1	PRJEB21615	ERR3447808	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	Control	VEX1and2_1	1	PRJEB21615	ERR3447809	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	Control	VEX1and2_1	1	PRJEB21615	ERR3447810	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	Control	VEX1and2_1	2	PRJEB21615	ERR3447811	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	Control	VEX1and2_1	2	PRJEB21615	ERR3447812	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	Control	VEX1and2_1	2	PRJEB21615	ERR3447813	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	Control	VEX1and2_1	2	PRJEB21615	ERR3447814	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	Control	VEX1and2_1	3	PRJEB21615	ERR3447815	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	Control	VEX1and2_1	3	PRJEB21615	ERR3447816	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	Control	VEX1and2_1	3	PRJEB21615	ERR3447817	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	Control	VEX1and2_1	3	PRJEB21615	ERR3447818	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	ControlUN	VEX1and2_1	1	PRJEB21615	ERR3447819	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	ControlUN	VEX1and2_1	1	PRJEB21615	ERR3447820	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	ControlUN	VEX1and2_1	1	PRJEB21615	ERR3447821	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	ControlUN	VEX1and2_1	1	PRJEB21615	ERR3447822	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	ControlUN	VEX1and2_1	2	PRJEB21615	ERR3447823	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	ControlUN	VEX1and2_1	2	PRJEB21615	ERR3447824	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	ControlUN	VEX1and2_1	2	PRJEB21615	ERR3447825	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	ControlUN	VEX1and2_1	2	PRJEB21615	ERR3447826	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	ControlUN	VEX1and2_1	3	PRJEB21615	ERR3447827	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	ControlUN	VEX1and2_1	3	PRJEB21615	ERR3447828	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	ControlUN	VEX1and2_1	3	PRJEB21615	ERR3447829	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	ControlUN	VEX1and2_1	3	PRJEB21615	ERR3447830	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi24	VEX1and2_1	1	PRJEB21615	ERR3447831	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi24	VEX1and2_1	1	PRJEB21615	ERR3447832	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi24	VEX1and2_1	1	PRJEB21615	ERR3447833	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi24	VEX1and2_1	1	PRJEB21615	ERR3447834	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi24	VEX1and2_1	2	PRJEB21615	ERR3447835	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi24	VEX1and2_1	2	PRJEB21615	ERR3447836	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi24	VEX1and2_1	2	PRJEB21615	ERR3447837	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi24	VEX1and2_1	2	PRJEB21615	ERR3447838	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi24	VEX1and2_1	3	PRJEB21615	ERR3447839	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi24	VEX1and2_1	3	PRJEB21615	ERR3447840	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi24	VEX1and2_1	3	PRJEB21615	ERR3447841	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi24	VEX1and2_1	3	PRJEB21615	ERR3447842	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi48	VEX1and2_1	1	PRJEB21615	ERR3447843	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi48	VEX1and2_1	1	PRJEB21615	ERR3447844	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi48	VEX1and2_1	1	PRJEB21615	ERR3447845	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi48	VEX1and2_1	1	PRJEB21615	ERR3447846	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi48	VEX1and2_1	2	PRJEB21615	ERR3447847	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi48	VEX1and2_1	2	PRJEB21615	ERR3447848	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi48	VEX1and2_1	2	PRJEB21615	ERR3447849	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi48	VEX1and2_1	2	PRJEB21615	ERR3447850	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi48	VEX1and2_1	3	PRJEB21615	ERR3447851	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi48	VEX1and2_1	3	PRJEB21615	ERR3447852	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi48	VEX1and2_1	3	PRJEB21615	ERR3447853	PAIRED	BAMdeposited	
+31289266	Monoallelic expression and epigenetic inheritance sustained by a Trypanosoma brucei variant surface glycoprotein exclusion complex 	VEX2_1	RNAi48	VEX1and2_1	3	PRJEB21615	ERR3447854	PAIRED	BAMdeposited	
+										
+										
+24946224	Trypanosoma brucei histone H1 inhibits RNA polymerase I transcription and is important for parasite fitness in vivo	H1_1	Control	H1_1	1	PRJEB4146	ERR556937	PAIRED		
+24946224	Trypanosoma brucei histone H1 inhibits RNA polymerase I transcription and is important for parasite fitness in vivo	H1_1	Control	H1_1	2	PRJEB4146	ERR556938	PAIRED		
+24946224	Trypanosoma brucei histone H1 inhibits RNA polymerase I transcription and is important for parasite fitness in vivo	H1_1	RNAi96	H1_1	1	PRJEB4146	ERR556936	PAIRED		
+24946224	Trypanosoma brucei histone H1 inhibits RNA polymerase I transcription and is important for parasite fitness in vivo	H1_1	RNAi96	H1_1	2	PRJEB4146	ERR556939	PAIRED		
+										
+										
+27226299	VEX1 controls the allelic exclusion required for antigenic variation in trypanosomes	VEX1_1	Control	VEX1_1	1	PRJEB8747	ERR1413153	PAIRED	BSF	
+27226299	VEX1 controls the allelic exclusion required for antigenic variation in trypanosomes	VEX1_1	Control	VEX1_1	2	PRJEB8747	ERR1413154	PAIRED	BSF	
+27226299	VEX1 controls the allelic exclusion required for antigenic variation in trypanosomes	VEX1_1	ControlUN	VEX1_1	1	PRJEB8747	ERR1395522	PAIRED	BSF	
+27226299	VEX1 controls the allelic exclusion required for antigenic variation in trypanosomes	VEX1_1	ControlUN	VEX1_1	2	PRJEB8747	ERR1395523	PAIRED	BSF	
+27226299	VEX1 controls the allelic exclusion required for antigenic variation in trypanosomes	VEX1_1	Oe72	VEX1_1	1	PRJEB8747	ERR1395524	PAIRED	BSF	
+27226299	VEX1 controls the allelic exclusion required for antigenic variation in trypanosomes	VEX1_1	Oe72	VEX1_1	2	PRJEB8747	ERR1395525	PAIRED	BSF	
+27226299	VEX1 controls the allelic exclusion required for antigenic variation in trypanosomes	VEX1_1	ControlUN	VEX1_2	1	PRJEB8747	ERR789033	PAIRED	BSF	
+27226299	VEX1 controls the allelic exclusion required for antigenic variation in trypanosomes	VEX1_1	ControlUN	VEX1_2	2	PRJEB8747	ERR789034	PAIRED	BSF	
+27226299	VEX1 controls the allelic exclusion required for antigenic variation in trypanosomes	VEX1_1	RNAi72	VEX1_2	1	PRJEB8747	ERR789035	PAIRED	BSF	
+27226299	VEX1 controls the allelic exclusion required for antigenic variation in trypanosomes	VEX1_1	RNAi72	VEX1_2	2	PRJEB8747	ERR789036	PAIRED	BSF	
+27226299	VEX1 controls the allelic exclusion required for antigenic variation in trypanosomes	VEX1_1	ControlUN	VEX1_3	1	PRJEB8747	ERR789059	PAIRED	PCF	
+27226299	VEX1 controls the allelic exclusion required for antigenic variation in trypanosomes	VEX1_1	ControlUN	VEX1_3	2	PRJEB8747	ERR789060	PAIRED	PCF	
+27226299	VEX1 controls the allelic exclusion required for antigenic variation in trypanosomes	VEX1_1	RNAi72	VEX1_3	1	PRJEB8747	ERR789061	PAIRED	PCF	
+27226299	VEX1 controls the allelic exclusion required for antigenic variation in trypanosomes	VEX1_1	RNAi72	VEX1_3	2	PRJEB8747	ERR789062	PAIRED	PCF	
+										
+										
+31127277	A post-transcriptional respiratome regulon in trypanosomes 	ZC3H40_1	ControlUN	ZC3H40_1	1	PRJEB30784	ERR3383643	PAIRED		
+31127277	A post-transcriptional respiratome regulon in trypanosomes 	ZC3H40_1	ControlUN	ZC3H40_1	2	PRJEB30784	ERR3383645	PAIRED		
+31127277	A post-transcriptional respiratome regulon in trypanosomes 	ZC3H40_1	RNAi72	ZC3H40_1	1	PRJEB30784	ERR3383644	PAIRED		
+31127277	A post-transcriptional respiratome regulon in trypanosomes 	ZC3H40_1	RNAi72	ZC3H40_1	2	PRJEB30784	ERR3383646	PAIRED		
+										
+										
+31693280	SUMOylated SNF2PH promotes variant surface glycoprotein expression in bloodstream trypanosomes 	SNF2PH_1	ControlUN	SNF2PH_1	1	PRJNA562785	SRR10034555	PAIRED	BSF	
+31693280	SUMOylated SNF2PH promotes variant surface glycoprotein expression in bloodstream trypanosomes 	SNF2PH_1	ControlUN	SNF2PH_1	2	PRJNA562785	SRR10034554	PAIRED	BSF	
+31693280	SUMOylated SNF2PH promotes variant surface glycoprotein expression in bloodstream trypanosomes 	SNF2PH_1	RNAi48	SNF2PH_1	1	PRJNA562785	SRR10034553	PAIRED	BSF	
+31693280	SUMOylated SNF2PH promotes variant surface glycoprotein expression in bloodstream trypanosomes 	SNF2PH_1	RNAi48	SNF2PH_1	2	PRJNA562785	SRR10034552	PAIRED	BSF	
+31693280	SUMOylated SNF2PH promotes variant surface glycoprotein expression in bloodstream trypanosomes 	SNF2PH_1	ControlUN	SNF2PH_2	1	PRJNA562785	SRR10034566	PAIRED	PCF	
+31693280	SUMOylated SNF2PH promotes variant surface glycoprotein expression in bloodstream trypanosomes 	SNF2PH_1	ControlUN	SNF2PH_2	2	PRJNA562785	SRR10034542	PAIRED	PCF	
+31693280	SUMOylated SNF2PH promotes variant surface glycoprotein expression in bloodstream trypanosomes 	SNF2PH_1	Oe48	SNF2PH_2	1	PRJNA562785	SRR10034564	PAIRED	PCF	
+31693280	SUMOylated SNF2PH promotes variant surface glycoprotein expression in bloodstream trypanosomes 	SNF2PH_1	Oe48	SNF2PH_2	2	PRJNA562785	SRR10034565	PAIRED	PCF	
+31693280	SUMOylated SNF2PH promotes variant surface glycoprotein expression in bloodstream trypanosomes 	SNF2PH_1	Control	SNF2PH_2	1	PRJNA562785	SRR10034545	PAIRED	PCF	
+31693280	SUMOylated SNF2PH promotes variant surface glycoprotein expression in bloodstream trypanosomes 	SNF2PH_1	Control	SNF2PH_2	2	PRJNA562785	SRR10034546	PAIRED	PCF	
+31693280	SUMOylated SNF2PH promotes variant surface glycoprotein expression in bloodstream trypanosomes 	SNF2PH_1	Oe48	SNF2PH_3	1	PRJNA562785	SRR10034560	PAIRED	PCF	
+31693280	SUMOylated SNF2PH promotes variant surface glycoprotein expression in bloodstream trypanosomes 	SNF2PH_1	Oe48	SNF2PH_3	2	PRJNA562785	SRR10034561	PAIRED	PCF	
+31693280	SUMOylated SNF2PH promotes variant surface glycoprotein expression in bloodstream trypanosomes 	SNF2PH_1	ControlUN	SNF2PH_3	1	PRJNA562785	SRR10034562	PAIRED	PCF	
+31693280	SUMOylated SNF2PH promotes variant surface glycoprotein expression in bloodstream trypanosomes 	SNF2PH_1	ControlUN	SNF2PH_3	2	PRJNA562785	SRR10034563	PAIRED	PCF	
+										
+										
+31968257	Trypanosoma brucei ATR Links DNA Damage Signaling during Antigenic Variation with Regulation of RNA Polymerase I-Transcribed Surface Antigens	TbATR_1	ControlUN	TbATR_1	1	PRJEB23973	ERR2222763	PAIRED	CL1	
+31968257	Trypanosoma brucei ATR Links DNA Damage Signaling during Antigenic Variation with Regulation of RNA Polymerase I-Transcribed Surface Antigens	TbATR_1	RNAi24	TbATR_1	1	PRJEB23973	ERR2222764	PAIRED	CL1	
+31968257	Trypanosoma brucei ATR Links DNA Damage Signaling during Antigenic Variation with Regulation of RNA Polymerase I-Transcribed Surface Antigens	TbATR_1	ControlUN	TbATR_1	2	PRJEB23973	ERR2222767	PAIRED	CL2	
+31968257	Trypanosoma brucei ATR Links DNA Damage Signaling during Antigenic Variation with Regulation of RNA Polymerase I-Transcribed Surface Antigens	TbATR_1	RNAi24	TbATR_1	2	PRJEB23973	ERR2222768	PAIRED	CL2	
+31968257	Trypanosoma brucei ATR Links DNA Damage Signaling during Antigenic Variation with Regulation of RNA Polymerase I-Transcribed Surface Antigens	TbATR_1	ControlUN	TbATR_1	3	PRJEB23973	ERR2222771	PAIRED	CL1	
+31968257	Trypanosoma brucei ATR Links DNA Damage Signaling during Antigenic Variation with Regulation of RNA Polymerase I-Transcribed Surface Antigens	TbATR_1	RNAi24	TbATR_1	3	PRJEB23973	ERR2222772	PAIRED	CL1	
+31968257	Trypanosoma brucei ATR Links DNA Damage Signaling during Antigenic Variation with Regulation of RNA Polymerase I-Transcribed Surface Antigens	TbATR_1	ControlUN	TbATR_2	1	PRJEB23973	ERR2222765	PAIRED	MDSumerror	
+31968257	Trypanosoma brucei ATR Links DNA Damage Signaling during Antigenic Variation with Regulation of RNA Polymerase I-Transcribed Surface Antigens	TbATR_1	RNAi36	TbATR_2	1	PRJEB23973	ERR2222766	PAIRED	CL1	
+31968257	Trypanosoma brucei ATR Links DNA Damage Signaling during Antigenic Variation with Regulation of RNA Polymerase I-Transcribed Surface Antigens	TbATR_1	ControlUN	TbATR_2	2	PRJEB23973	ERR2222769	PAIRED	CL2	
+31968257	Trypanosoma brucei ATR Links DNA Damage Signaling during Antigenic Variation with Regulation of RNA Polymerase I-Transcribed Surface Antigens	TbATR_1	RNAi36	TbATR_2	2	PRJEB23973	ERR2222770	PAIRED	CL2	
+31968257	Trypanosoma brucei ATR Links DNA Damage Signaling during Antigenic Variation with Regulation of RNA Polymerase I-Transcribed Surface Antigens	TbATR_1	ControlUN	TbATR_2	3	PRJEB23973	ERR2222773	PAIRED	CL1	
+31968257	Trypanosoma brucei ATR Links DNA Damage Signaling during Antigenic Variation with Regulation of RNA Polymerase I-Transcribed Surface Antigens	TbATR_1	RNAi36	TbATR_2	3	PRJEB23973	ERR2222774	PAIRED	CL1	
+										
+										
+32198348	Distinct roles for H4 and H2A.Z acetylation in RNA transcription in African trypanosomes 	TbHAT_1	ControlUN	TbHAT_1	1	PRJNA607761	SRR11122981	PAIRED		
+32198348	Distinct roles for H4 and H2A.Z acetylation in RNA transcription in African trypanosomes 	TbHAT_1	ControlUN	TbHAT_1	2	PRJNA607761	SRR11122982	PAIRED		
+32198348	Distinct roles for H4 and H2A.Z acetylation in RNA transcription in African trypanosomes 	TbHAT_1	ControlUN	TbHAT_1	3	PRJNA607761	SRR11122983	PAIRED		
+32198348	Distinct roles for H4 and H2A.Z acetylation in RNA transcription in African trypanosomes 	TbHAT_1	RNAi48HAT2	TbHAT_1	1	PRJNA607761	SRR11122984	PAIRED		
+32198348	Distinct roles for H4 and H2A.Z acetylation in RNA transcription in African trypanosomes 	TbHAT_1	RNAi48HAT2	TbHAT_1	2	PRJNA607761	SRR11122985	PAIRED		
+32198348	Distinct roles for H4 and H2A.Z acetylation in RNA transcription in African trypanosomes 	TbHAT_1	RNAi48HAT2	TbHAT_1	3	PRJNA607761	SRR11122986	PAIRED		
+32198348	Distinct roles for H4 and H2A.Z acetylation in RNA transcription in African trypanosomes 	TbHAT_1	RNAi48HAT1	TbHAT_1	1	PRJNA607761	SRR11122987	PAIRED		
+32198348	Distinct roles for H4 and H2A.Z acetylation in RNA transcription in African trypanosomes 	TbHAT_1	RNAi48HAT1	TbHAT_1	2	PRJNA607761	SRR11122988	PAIRED		
+32198348	Distinct roles for H4 and H2A.Z acetylation in RNA transcription in African trypanosomes 	TbHAT_1	RNAi48HAT1	TbHAT_1	3	PRJNA607761	SRR11122989	PAIRED		
+										
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	ControlUN	TbESB1_1	1	PRJNA784098	SRR17052113	PAIRED	BSF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	ControlUN	TbESB1_1	2	PRJNA784098	SRR19091061	PAIRED	BSF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	ControlUN	TbESB1_1	3	PRJNA784098	SRR19091060	PAIRED	BSF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	ControlUN	TbESB1_1	4	PRJNA784098	SRR19091049	PAIRED	BSF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	RNAi24	TbESB1_1	1	PRJNA784098	SRR17052082	PAIRED	BSF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	RNAi24	TbESB1_1	2	PRJNA784098	SRR19091042	PAIRED	BSF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	RNAi24	TbESB1_1	3	PRJNA784098	SRR19091041	PAIRED	BSF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	RNAi24	TbESB1_1	4	PRJNA784098	SRR19091040	PAIRED	BSF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	KO48	TbESB1_2	1	PRJNA784098	SRR17052107	PAIRED	BSF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	KO48	TbESB1_2	2	PRJNA784098	SRR19091054	PAIRED	BSF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	KO48	TbESB1_2	3	PRJNA784098	SRR19091053	PAIRED	BSF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	KO48	TbESB1_2	4	PRJNA784098	SRR19091052	PAIRED	BSF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	ControlUN	TbESB1_2	1	PRJNA784098	SRR17052110	PAIRED	BSF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	ControlUN	TbESB1_2	2	PRJNA784098	SRR19091057	PAIRED	BSF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	ControlUN	TbESB1_2	3	PRJNA784098	SRR19091056	PAIRED	BSF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	ControlUN	TbESB1_2	4	PRJNA784098	SRR19091055	PAIRED	BSF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	ControlUN	TbESB1_3	1	PRJNA784098	SRR17052122	PAIRED	BSF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	ControlUN	TbESB1_3	2	PRJNA784098	SRR19091039	PAIRED	BSF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	ControlUN	TbESB1_3	3	PRJNA784098	SRR19091038	PAIRED	BSF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	ControlUN	TbESB1_3	4	PRJNA784098	SRR19091037	PAIRED	BSF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	OE24	TbESB1_3	1	PRJNA784098	SRR17052116	PAIRED	BSF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	OE24	TbESB1_3	2	PRJNA784098	SRR19091036	PAIRED	BSF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	OE24	TbESB1_3	3	PRJNA784098	SRR19091059	PAIRED	BSF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	OE24	TbESB1_3	4	PRJNA784098	SRR19091058	PAIRED	BSF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	ControlUN	TbESB1_4	1	PRJNA784098	SRR17052095	PAIRED	PCF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	ControlUN	TbESB1_4	2	PRJNA784098	SRR19091051	PAIRED	PCF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	ControlUN	TbESB1_4	3	PRJNA784098	SRR19091050	PAIRED	PCF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	ControlUN	TbESB1_4	4	PRJNA784098	SRR19091048	PAIRED	PCF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	OE24	TbESB1_4	1	PRJNA784098	SRR17052093	PAIRED	PCF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	OE24	TbESB1_4	2	PRJNA784098	SRR19091047	PAIRED	PCF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	OE24	TbESB1_4	3	PRJNA784098	SRR19091046	PAIRED	PCF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	OE24	TbESB1_4	4	PRJNA784098	SRR19091045	PAIRED	PCF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	ControlUN	VEX1_4	1	PRJNA784098	SRR17052104	PAIRED	BSF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	RNAi24	VEX1_4	1	PRJNA784098	SRR17052100	PAIRED	BSF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	ControlUN	VEX1_5	1	PRJNA784098	SRR17052103	PAIRED	BSF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	RNAi48	VEX1_5	1	PRJNA784098	SRR17052099	PAIRED	BSF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	ControlUN	VEX1_6	1	PRJNA784098	SRR17052101	PAIRED	BSF	
+35879525	Stage-specific transcription activator ESB1 regulates monoallelic antigen expression in Trypanosoma brucei	TbESB1_1	RNAi72	VEX1_6	1	PRJNA784098	SRR17052098	PAIRED	BSF	
+										
+29491740	Transcriptional Regulation of Telomeric Expression Sites and Antigenic Variation in Trypanosomes 	TbIPMK_1	RNAi36	IPMK_1	1	PRJNA362648	SRR5314671	SINGLE	mixedofpairedandsinglefastqfilesspkitintwoexperiments	
+29491740	Transcriptional Regulation of Telomeric Expression Sites and Antigenic Variation in Trypanosomes 	TbIPMK_1	ControlUN	IPMK_1	1	PRJNA362648	SRR5314672	SINGLE	mixedofpairedandsinglefastqfilesspkitintwoexperiments	
+29491740	Transcriptional Regulation of Telomeric Expression Sites and Antigenic Variation in Trypanosomes 	TbIPMK_1	RNAi36	IPMK_1	2	PRJNA362648	SRR5315219	SINGLE	mixedofpairedandsinglefastqfilesspkitintwoexperiments	
+29491740	Transcriptional Regulation of Telomeric Expression Sites and Antigenic Variation in Trypanosomes 	TbIPMK_1	ControlUN	IPMK_1	2	PRJNA362648	SRR5315220	SINGLE	mixedofpairedandsinglefastqfilesspkitintwoexperiments	
+29491740	Transcriptional Regulation of Telomeric Expression Sites and Antigenic Variation in Trypanosomes 	TbIPMK_1	RNAi36	IPMK_2	1	PRJNA362648	SRR5253722	PAIRED		
+29491740	Transcriptional Regulation of Telomeric Expression Sites and Antigenic Variation in Trypanosomes 	TbIPMK_1	ControlUN	IPMK_2	1	PRJNA362648	SRR5253723	PAIRED		
+										
+36169304	The SPARC complex defines RNAPII promoters in Trypanosoma brucei	TbSET27	Control	SET27_1	1	PRJNA857735	SRR20081822	PAIRED		
+36169304	The SPARC complex defines RNAPII promoters in Trypanosoma brucei	TbSET27	Control	SET27_1	2	PRJNA857735	SRR20081826	PAIRED		
+36169304	The SPARC complex defines RNAPII promoters in Trypanosoma brucei	TbSET27	KO	SET27_1	1	PRJNA857735	SRR20081821	PAIRED		
+36169304	The SPARC complex defines RNAPII promoters in Trypanosoma brucei	TbSET27	KO	SET27_1	2	PRJNA857735	SRR20081827	PAIRED		
+36169304	The SPARC complex defines RNAPII promoters in Trypanosoma brucei	TbSET27	KO	SET27_1	3	PRJNA857735	SRR20081829	PAIRED		
+36169304	The SPARC complex defines RNAPII promoters in Trypanosoma brucei	TbSET27	sKO	SET27_1	1	PRJNA857735	SRR20081828	PAIRED		
+36169304	The SPARC complex defines RNAPII promoters in Trypanosoma brucei	TbSET27	sKO	SET27_1	2	PRJNA857735	SRR20081823	PAIRED		
+36169304	The SPARC complex defines RNAPII promoters in Trypanosoma brucei	TbSET27	sKO	SET27_1	3	PRJNA857735	SRR20081820	PAIRED		
+										
+30420356	Nuclear Phosphatidylinositol 5-Phosphatase Is Essential for Allelic Exclusion of Variant Surface Glycoprotein Genes in Trypanosomes 	PIP5Pase_1	ControlUN	PIP5Pase_1	1	PRJNA476985	SRR7401110	PAIRED	MDSumerror	
+30420356	Nuclear Phosphatidylinositol 5-Phosphatase Is Essential for Allelic Exclusion of Variant Surface Glycoprotein Genes in Trypanosomes 	PIP5Pase_1	KO	PIP5Pase_1	2	PRJNA476985	SRR7401112	SINGLE	PossibleSwitchofKOvsControl,doubleexpressorof2/11	
+30420356	Nuclear Phosphatidylinositol 5-Phosphatase Is Essential for Allelic Exclusion of Variant Surface Glycoprotein Genes in Trypanosomes 	PIP5Pase_1	KO	PIP5Pase_1	1	PRJNA476985	SRR7401109	PAIRED	MDSumerror	
+30420356	Nuclear Phosphatidylinositol 5-Phosphatase Is Essential for Allelic Exclusion of Variant Surface Glycoprotein Genes in Trypanosomes 	PIP5Pase_1	ControlUN	PIP5Pase_1	2	PRJNA476985	SRR7401111	SINGLE	PossibleSwitchofKOvsControl,doubleexpressorof2/11Exp#2Tet+	
+										
+33783358	Functional insights from a surface antigen mRNA-bound proteome	CFB2_1	Control	CFB2_1	1	PRJEB21615	ERR4704791	SINGLE		
+33783358	Functional insights from a surface antigen mRNA-bound proteome	CFB2_1	ControlUN	CFB2_1	2	PRJEB21615	ERR4704794	SINGLE		
+33783358	Functional insights from a surface antigen mRNA-bound proteome	CFB2_1	ControlUN	CFB2_1	3	PRJEB21615	ERR4704796	SINGLE		
+33783358	Functional insights from a surface antigen mRNA-bound proteome	CFB2_1	RNAi9	CFB2_1	1	PRJEB21615	ERR4704793	SINGLE		
+33783358	Functional insights from a surface antigen mRNA-bound proteome	CFB2_1	RNAi9	CFB2_1	2	PRJEB21615	ERR4704795	SINGLE		
+33783358	Functional insights from a surface antigen mRNA-bound proteome	CFB2_1	Control	CFB2_1	3	PRJEB21615	ERR4704792	SINGLE		
+										
+32084124	Functional insights from a surface antigen mRNA-bound proteome	PNUTS_1	ControlUN	PNUTS_1	1	PRJNA559811	SRR9951065	SINGLE		
+32084124	Functional insights from a surface antigen mRNA-bound proteome	PNUTS_1	ControlUN	PNUTS_1	2	PRJNA559811	SRR9951061	SINGLE		
+32084124	Functional insights from a surface antigen mRNA-bound proteome	PNUTS_1	ControlUN	PNUTS_1	3	PRJNA559811	SRR9951063	SINGLE		
+32084124	Functional insights from a surface antigen mRNA-bound proteome	PNUTS_1	RNAi48	PNUTS_1	1	PRJNA559811	SRR9951062	SINGLE		
+32084124	Functional insights from a surface antigen mRNA-bound proteome	PNUTS_1	RNAi48	PNUTS_1	2	PRJNA559811	SRR9951064	SINGLE		
+32084124	Functional insights from a surface antigen mRNA-bound proteome	PNUTS_1	RNAi48	PNUTS_1	3	PRJNA559811	SRR9951066	SINGLE		
+										
+26646171	Bromodomain Proteins Contribute to Maintenance of Bloodstream Form Stage Identity in the African Trypanosome	BDF_1	Control	BET151_1	1	PRJNA559811	SRR2154069	SINGLE		
+26646171	Bromodomain Proteins Contribute to Maintenance of Bloodstream Form Stage Identity in the African Trypanosome	BDF_1	Drug3h	BET151_1	1	PRJNA559811	SRR2154091	SINGLE		
+26646171	Bromodomain Proteins Contribute to Maintenance of Bloodstream Form Stage Identity in the African Trypanosome	BDF_1	Drug6h	BET151_1	1	PRJNA559811	SRR2154092	SINGLE		
+26646171	Bromodomain Proteins Contribute to Maintenance of Bloodstream Form Stage Identity in the African Trypanosome	BDF_1	Drug12h	BET151_1	1	PRJNA559811	SRR2154095	SINGLE		
+26646171	Bromodomain Proteins Contribute to Maintenance of Bloodstream Form Stage Identity in the African Trypanosome	BDF_1	Drug24h	BET151_1	1	PRJNA559811	SRR2154096	SINGLE		
+26646171	Bromodomain Proteins Contribute to Maintenance of Bloodstream Form Stage Identity in the African Trypanosome	BDF_1	Drug48h	BET151_1	1	PRJNA559811	SRR2154088	SINGLE		
+26646171	Bromodomain Proteins Contribute to Maintenance of Bloodstream Form Stage Identity in the African Trypanosome	BDF_1	Drug72h	BET151_1	1	PRJNA559811	SRR2154089	SINGLE
+26646171	Bromodomain Proteins Contribute to Maintenance of Bloodstream Form Stage Identity in the African Trypanosome	BDF_1	ControlUN	BDF3_1	1	PRJNA559811	SRR2154093	SINGLE		
+26646171	Bromodomain Proteins Contribute to Maintenance of Bloodstream Form Stage Identity in the African Trypanosome	BDF_1	KO24	BDF3_1	1	PRJNA559811	SRR2154094	SINGLE		
+26646171	Bromodomain Proteins Contribute to Maintenance of Bloodstream Form Stage Identity in the African Trypanosome	BDF_1	ControlUN	BDF2_1	1	PRJNA559811	SRR2154097	SINGLE		
+26646171	Bromodomain Proteins Contribute to Maintenance of Bloodstream Form Stage Identity in the African Trypanosome	BDF_1	KO48	BDF2_1	1	PRJNA559811	SRR2154098	SINGLE		
+										
+26796638	Base J and H3.V Regulate Transcriptional Termination in Trypanosoma brucei	H3_1	Control	H3_1	1	PRJNA305332	SRR2982158	SINGLE	Wild-type	
+26796638	Base J and H3.V Regulate Transcriptional Termination in Trypanosoma brucei	H3_1	Control	H3_1	2	PRJNA305332	SRR2982159	SINGLE	Wild-type	
+26796638	Base J and H3.V Regulate Transcriptional Termination in Trypanosoma brucei	H3_1	Control	H3_1	3	PRJNA305332	SRR2982160	SINGLE	Wild-type	
+26796638	Base J and H3.V Regulate Transcriptional Termination in Trypanosoma brucei	H3_1	KOJ	H3_1	1	PRJNA305332	SRR2982203	SINGLE	JΔ	
+26796638	Base J and H3.V Regulate Transcriptional Termination in Trypanosoma brucei	H3_1	KOJ	H3_1	2	PRJNA305332	SRR2982223	SINGLE	JΔ	
+26796638	Base J and H3.V Regulate Transcriptional Termination in Trypanosoma brucei	H3_1	KOJ	H3_1	3	PRJNA305332	SRR2982242	SINGLE	JΔ	
+26796638	Base J and H3.V Regulate Transcriptional Termination in Trypanosoma brucei	H3_1	KOH3	H3_1	1	PRJNA305332	SRR2982251	SINGLE	H3.VΔ	
+26796638	Base J and H3.V Regulate Transcriptional Termination in Trypanosoma brucei	H3_1	KOH3	H3_1	2	PRJNA305332	SRR2982253	SINGLE	H3.VΔ	
+26796638	Base J and H3.V Regulate Transcriptional Termination in Trypanosoma brucei	H3_1	KOH3	H3_1	3	PRJNA305332	SRR2982254	SINGLE	H3.VΔ	
+26796638	Base J and H3.V Regulate Transcriptional Termination in Trypanosoma brucei	H3_1	KOH3J	H3_1	1	PRJNA305332	SRR2982333	SINGLE	JΔH3.VΔ	
+26796638	Base J and H3.V Regulate Transcriptional Termination in Trypanosoma brucei	H3_1	KOH3J	H3_1	2	PRJNA305332	SRR2982334	SINGLE	JΔH3.VΔ	
+26796638	Base J and H3.V Regulate Transcriptional Termination in Trypanosoma brucei	H3_1	KOH3J	H3_1	3	PRJNA305332	SRR2982335	SINGLE	JΔH3.VΔ	
+										
+30381351	Glucose Signaling Is Important for Nutrient Adaptation during Differentiation of Pleomorphic African Trypanosomes	RBP10_1	ControlUN	RBP10_1	1	PRJEB13058	ERR1328278	SINGLE	BSFFreemono	
+30381351	Glucose Signaling Is Important for Nutrient Adaptation during Differentiation of Pleomorphic African Trypanosomes	RBP10_1	ControlUN	RBP10_1	2	PRJEB13058	ERR1328279	SINGLE	BSFFreemono	
+30381351	Glucose Signaling Is Important for Nutrient Adaptation during Differentiation of Pleomorphic African Trypanosomes	RBP10_1	RNAi24	RBP10_1	1	PRJEB13058	ERR1328272	SINGLE	BSFFreemono	
+30381351	Glucose Signaling Is Important for Nutrient Adaptation during Differentiation of Pleomorphic African Trypanosomes	RBP10_1	RNAi24	RBP10_1	2	PRJEB13058	ERR1328273	SINGLE	BSFFreemono	
+30381351	Glucose Signaling Is Important for Nutrient Adaptation during Differentiation of Pleomorphic African Trypanosomes	RBP10_1	ControlUN	RBP10_2	1	PRJEB13058	ERR1328280	SINGLE	BSFinput	
+30381351	Glucose Signaling Is Important for Nutrient Adaptation during Differentiation of Pleomorphic African Trypanosomes	RBP10_1	ControlUN	RBP10_2	2	PRJEB13058	ERR1328281	SINGLE	BSFinput	
+30381351	Glucose Signaling Is Important for Nutrient Adaptation during Differentiation of Pleomorphic African Trypanosomes	RBP10_1	RNAi24	RBP10_2	1	PRJEB13058	ERR1328274	SINGLE	BSFinput	
+30381351	Glucose Signaling Is Important for Nutrient Adaptation during Differentiation of Pleomorphic African Trypanosomes	RBP10_1	RNAi24	RBP10_2	2	PRJEB13058	ERR1328275	SINGLE	BSFinput	
+30381351	Glucose Signaling Is Important for Nutrient Adaptation during Differentiation of Pleomorphic African Trypanosomes	RBP10_1	ControlUN	RBP10_3	1	PRJEB13058	ERR1328282	SINGLE	BSFpoly	
+30381351	Glucose Signaling Is Important for Nutrient Adaptation during Differentiation of Pleomorphic African Trypanosomes	RBP10_1	ControlUN	RBP10_3	2	PRJEB13058	ERR1328283	SINGLE	BSFpoly	
+30381351	Glucose Signaling Is Important for Nutrient Adaptation during Differentiation of Pleomorphic African Trypanosomes	RBP10_1	RNAi24	RBP10_3	1	PRJEB13058	ERR1328276	SINGLE	BSFpoly	
+30381351	Glucose Signaling Is Important for Nutrient Adaptation during Differentiation of Pleomorphic African Trypanosomes	RBP10_1	RNAi24	RBP10_3	2	PRJEB13058	ERR1328277	SINGLE	BSFpoly	
+30381351	Glucose Signaling Is Important for Nutrient Adaptation during Differentiation of Pleomorphic African Trypanosomes	RBP10_1	ControlUN	RBP10_4	1	PRJEB13058	ERR1328290	SINGLE	PCF	
+30381351	Glucose Signaling Is Important for Nutrient Adaptation during Differentiation of Pleomorphic African Trypanosomes	RBP10_1	ControlUN	RBP10_4	2	PRJEB13058	ERR1328291	SINGLE	PCF	
+30381351	Glucose Signaling Is Important for Nutrient Adaptation during Differentiation of Pleomorphic African Trypanosomes	RBP10_1	RNAi24	RBP10_4	1	PRJEB13058	ERR1328284	SINGLE	PCF	
+30381351	Glucose Signaling Is Important for Nutrient Adaptation during Differentiation of Pleomorphic African Trypanosomes	RBP10_1	RNAi24	RBP10_4	2	PRJEB13058	ERR1328285	SINGLE	PCF	
+30381351	Glucose Signaling Is Important for Nutrient Adaptation during Differentiation of Pleomorphic African Trypanosomes	RBP10_1	ControlUN	RBP10_5	1	PRJEB13058	ERR1328292	SINGLE	PCF	
+30381351	Glucose Signaling Is Important for Nutrient Adaptation during Differentiation of Pleomorphic African Trypanosomes	RBP10_1	ControlUN	RBP10_5	2	PRJEB13058	ERR1328293	SINGLE	PCF	
+30381351	Glucose Signaling Is Important for Nutrient Adaptation during Differentiation of Pleomorphic African Trypanosomes	RBP10_1	RNAi24	RBP10_5	1	PRJEB13058	ERR1328286	SINGLE	PCF	
+30381351	Glucose Signaling Is Important for Nutrient Adaptation during Differentiation of Pleomorphic African Trypanosomes	RBP10_1	RNAi24	RBP10_5	2	PRJEB13058	ERR1328287	SINGLE	PCF	
+30381351	Glucose Signaling Is Important for Nutrient Adaptation during Differentiation of Pleomorphic African Trypanosomes	RBP10_1	ControlUN	RBP10_6	1	PRJEB13058	ERR1328294	SINGLE	PCF	
+30381351	Glucose Signaling Is Important for Nutrient Adaptation during Differentiation of Pleomorphic African Trypanosomes	RBP10_1	ControlUN	RBP10_6	2	PRJEB13058	ERR1328295	SINGLE	PCF	
+30381351	Glucose Signaling Is Important for Nutrient Adaptation during Differentiation of Pleomorphic African Trypanosomes	RBP10_1	RNAi24	RBP10_6	1	PRJEB13058	ERR1328288	SINGLE	PCF	
+30381351	Glucose Signaling Is Important for Nutrient Adaptation during Differentiation of Pleomorphic African Trypanosomes	RBP10_1	RNAi24	RBP10_6	2	PRJEB13058	ERR1328289	SINGLE	PCF	
+										
+35264260	Interactions of the Trypanosoma brucei brucei zinc-finger-domain protein ZC3H28	ZC3H28_1	ControlUN	ZC3H28_1	1	PRJEB46453	ERR6325900	SINGLE		
+35264260	Interactions of the Trypanosoma brucei brucei zinc-finger-domain protein ZC3H28	ZC3H28_1	ControlUN	ZC3H28_1	2	PRJEB46453	ERR6325901	SINGLE		STRANDED
+35264260	Interactions of the Trypanosoma brucei brucei zinc-finger-domain protein ZC3H28	ZC3H28_1	ControlUN	ZC3H28_1	3	PRJEB46453	ERR6325902	SINGLE		STRANDED
+35264260	Interactions of the Trypanosoma brucei brucei zinc-finger-domain protein ZC3H28	ZC3H28_1	ControlUN	ZC3H28_1	4	PRJEB46453	ERR6325903	SINGLE		STRANDED
+35264260	Interactions of the Trypanosoma brucei brucei zinc-finger-domain protein ZC3H28	ZC3H28_1	ControlUN	ZC3H28_1	5	PRJEB46453	ERR6325904	SINGLE		STRANDED
+35264260	Interactions of the Trypanosoma brucei brucei zinc-finger-domain protein ZC3H28	ZC3H28_1	RNAi10	ZC3H28_1	1	PRJEB46453	ERR6325891	SINGLE		STRANDED
+35264260	Interactions of the Trypanosoma brucei brucei zinc-finger-domain protein ZC3H28	ZC3H28_1	RNAi10	ZC3H28_1	2	PRJEB46453	ERR6325892	SINGLE		STRANDED
+35264260	Interactions of the Trypanosoma brucei brucei zinc-finger-domain protein ZC3H28	ZC3H28_1	RNAi10	ZC3H28_1	3	PRJEB46453	ERR6325893	SINGLE		STRANDED
+35264260	Interactions of the Trypanosoma brucei brucei zinc-finger-domain protein ZC3H28	ZC3H28_1	RNAi14	ZC3H28_1	1	PRJEB46453	ERR6325894	SINGLE		STRANDED
+35264260	Interactions of the Trypanosoma brucei brucei zinc-finger-domain protein ZC3H28	ZC3H28_1	RNAi14	ZC3H28_1	2	PRJEB46453	ERR6325895	SINGLE		STRANDED
+35264260	Interactions of the Trypanosoma brucei brucei zinc-finger-domain protein ZC3H28	ZC3H28_1	RNAi16	ZC3H28_1	1	PRJEB46453	ERR6325896	SINGLE		STRANDED
+35264260	Interactions of the Trypanosoma brucei brucei zinc-finger-domain protein ZC3H28	ZC3H28_1	RNAi16	ZC3H28_1	2	PRJEB46453	ERR6325897	SINGLE		STRANDED
+35264260	Interactions of the Trypanosoma brucei brucei zinc-finger-domain protein ZC3H28	ZC3H28_1	RNAi24	ZC3H28_1	1	PRJEB46453	ERR6325898	SINGLE		STRANDED
+35264260	Interactions of the Trypanosoma brucei brucei zinc-finger-domain protein ZC3H28	ZC3H28_1	RNAi24	ZC3H28_1	2	PRJEB46453	ERR6325899	SINGLE		STRANDED
+										STRANDED
+35793904	The Trypanosoma brucei RNA-binding protein DRBD18 ensures correct mRNA trans splicing and polyadenylation patterns	DRBD18_1	ControlUN	DRBD18_1	1	PRJEB41419	ERR4846467	SINGLE		STRANDED
+35793904	The Trypanosoma brucei RNA-binding protein DRBD18 ensures correct mRNA trans splicing and polyadenylation patterns	DRBD18_1	ControlUN	DRBD18_1	2	PRJEB41419	ERR4846468	SINGLE		STRANDED
+35793904	The Trypanosoma brucei RNA-binding protein DRBD18 ensures correct mRNA trans splicing and polyadenylation patterns	DRBD18_1	ControlUN	DRBD18_1	3	PRJEB41419	ERR4846469	SINGLE		STRANDED
+35793904	The Trypanosoma brucei RNA-binding protein DRBD18 ensures correct mRNA trans splicing and polyadenylation patterns	DRBD18_1	RNAi12	DRBD18_1	1	PRJEB41419	ERR4846464	SINGLE		STRANDED
+35793904	The Trypanosoma brucei RNA-binding protein DRBD18 ensures correct mRNA trans splicing and polyadenylation patterns	DRBD18_1	RNAi12	DRBD18_1	2	PRJEB41419	ERR4846465	SINGLE		STRANDED
+35793904	The Trypanosoma brucei RNA-binding protein DRBD18 ensures correct mRNA trans splicing and polyadenylation patterns	DRBD18_1	RNAi12	DRBD18_1	3	PRJEB41419	ERR4846466	SINGLE		STRANDED
+										STRANDED
+37581443	The RNA-binding protein RBP42 regulates cellular energy metabolism in mammalian-infective Trypanosoma brucei	RBP42_1	ControlUN	RBP42_1	1	PRJNA734911	SRR14768796	SINGLE		STRANDED
+37581443	The RNA-binding protein RBP42 regulates cellular energy metabolism in mammalian-infective Trypanosoma brucei	RBP42_1	ControlUN	RBP42_1	2	PRJNA734911	SRR14768795	SINGLE		STRANDED
+37581443	The RNA-binding protein RBP42 regulates cellular energy metabolism in mammalian-infective Trypanosoma brucei	RBP42_1	ControlUN	RBP42_1	3	PRJNA734911	SRR14768794	SINGLE		STRANDED
+37581443	The RNA-binding protein RBP42 regulates cellular energy metabolism in mammalian-infective Trypanosoma brucei	RBP42_1	KO24	RBP42_1	1	PRJNA734911	SRR14768793	SINGLE		STRANDED
+37581443	The RNA-binding protein RBP42 regulates cellular energy metabolism in mammalian-infective Trypanosoma brucei	RBP42_1	KO24	RBP42_1	2	PRJNA734911	SRR14768792	SINGLE		STRANDED
+37581443	The RNA-binding protein RBP42 regulates cellular energy metabolism in mammalian-infective Trypanosoma brucei	RBP42_1	KO24	RBP42_1	3	PRJNA734911	SRR14768791	SINGLE		STRANDED
+37581443	The RNA-binding protein RBP42 regulates cellular energy metabolism in mammalian-infective Trypanosoma brucei	RBP42_1	KO48	RBP42_1	1	PRJNA734911	SRR14768804	SINGLE		STRANDED
+37581443	The RNA-binding protein RBP42 regulates cellular energy metabolism in mammalian-infective Trypanosoma brucei	RBP42_1	KO48	RBP42_1	2	PRJNA734911	SRR14768803	SINGLE		STRANDED
+37581443	The RNA-binding protein RBP42 regulates cellular energy metabolism in mammalian-infective Trypanosoma brucei	RBP42_1	KO48	RBP42_1	3	PRJNA734911	SRR14768802	SINGLE		STRANDED
+37581443	The RNA-binding protein RBP42 regulates cellular energy metabolism in mammalian-infective Trypanosoma brucei	RBP42_1	KO72	RBP42_1	1	PRJNA734911	SRR14768801	SINGLE		
+37581443	The RNA-binding protein RBP42 regulates cellular energy metabolism in mammalian-infective Trypanosoma brucei	RBP42_1	KO72	RBP42_1	2	PRJNA734911	SRR14768800	SINGLE		
+37581443	The RNA-binding protein RBP42 regulates cellular energy metabolism in mammalian-infective Trypanosoma brucei	RBP42_1	KO72	RBP42_1	3	PRJNA734911	SRR14768799	SINGLE		
+										
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	RNAi9	ZC3H5_1	1	PRJEB38366	ERR4160685	SINGLE		STRANDED
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	RNAi9	ZC3H5_1	2	PRJEB38366	ERR4160687	SINGLE		STRANDED
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	RNAi12	ZC3H5_1	1	PRJEB38366	ERR4160684	SINGLE		STRANDED
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	RNAi12	ZC3H5_1	2	PRJEB38366	ERR4160686	SINGLE		STRANDED
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	ControlUN	ZC3H5_2	1	PRJEB33092	ERR3380213	SINGLE	Polysomectrlfree	STRANDED
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	ControlUN	ZC3H5_2	2	PRJEB33092	ERR3380217	SINGLE	Polysomectrlfree	STRANDED
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	ControlUN	ZC3H5_3	1	PRJEB33092	ERR3380216	SINGLE	Polysomectrlmonosome	STRANDED
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	ControlUN	ZC3H5_3	2	PRJEB33092	ERR3380220	SINGLE	Polysomectrlmonosome	STRANDED
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	ControlUN	ZC3H5_4	1	PRJEB33092	ERR3380215	SINGLE	Polysomectrllight	
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	ControlUN	ZC3H5_4	2	PRJEB33092	ERR3380219	SINGLE	Polysomectrllight	
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	ControlUN	ZC3H5_5	1	PRJEB33092	ERR3380214	SINGLE	Polysomectrlheavy	
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	ControlUN	ZC3H5_5	2	PRJEB33092	ERR3380218	SINGLE	Polysomectrlheavy
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	RNAi12	ZC3H5_2	1	PRJEB33092	ERR3380229	SINGLE	PolysomeZC3H5RNAifree
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	RNAi12	ZC3H5_2	2	PRJEB33092	ERR3380233	SINGLE	PolysomeZC3H5RNAifree
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	RNAi12	ZC3H5_3	1	PRJEB33092	ERR3380232	SINGLE	PolysomeZC3H5RNAimonosome
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	RNAi12	ZC3H5_3	2	PRJEB33092	ERR3380236	SINGLE	PolysomeZC3H5RNAimonosome	
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	RNAi12	ZC3H5_4	1	PRJEB33092	ERR3380231	SINGLE	PolysomeZC3H5RNAilight	STRANDED
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	RNAi12	ZC3H5_4	2	PRJEB33092	ERR3380235	SINGLE	PolysomeZC3H5RNAilight	STRANDED
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	RNAi12	ZC3H5_5	1	PRJEB33092	ERR3380230	SINGLE	PolysomeZC3H5RNAiheavy	STRANDED
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	RNAi12	ZC3H5_5	2	PRJEB33092	ERR3380234	SINGLE	PolysomeZC3H5RNAiheavy	STRANDED
+
+30407533	Genome-wide function of MCM-BP in Trypanosoma brucei DNA replication and transcription	MCMBP_1	ControlUN	MCMBP_1	1	PRJNA484931	SRR7653086	SINGLE	WTstrain660-1	STRANDED
+30407533	Genome-wide function of MCM-BP in Trypanosoma brucei DNA replication and transcription	MCMBP_1	ControlUN	MCMBP_1	2	PRJNA484931	SRR7653087	SINGLE	WTstrain660-2	STRANDED
+30407533	Genome-wide function of MCM-BP in Trypanosoma brucei DNA replication and transcription	MCMBP_1	ControlUN	MCMBP_1	3	PRJNA484931	SRR7653088	SINGLE	WTstrain661-1	STRANDED
+30407533	Genome-wide function of MCM-BP in Trypanosoma brucei DNA replication and transcription	MCMBP_1	ControlUN	MCMBP_1	4	PRJNA484931	SRR7653089	SINGLE	WTstrain661-2	STRANDED
+30407533	Genome-wide function of MCM-BP in Trypanosoma brucei DNA replication and transcription	MCMBP_1	KO24	MCMBP_1	1	PRJNA484931	SRR7653090	SINGLE	MCM-BPcKOstrain660-1	STRANDED
+30407533	Genome-wide function of MCM-BP in Trypanosoma brucei DNA replication and transcription	MCMBP_1	KO24	MCMBP_1	2	PRJNA484931	SRR7653091	SINGLE	MCM-BPcKOstrain660-2	STRANDED
+30407533	Genome-wide function of MCM-BP in Trypanosoma brucei DNA replication and transcription	MCMBP_1	KO24	MCMBP_1	3	PRJNA484931	SRR7653092	SINGLE	MCM-BPcKOstrain661-1	STRANDED
+30407533	Genome-wide function of MCM-BP in Trypanosoma brucei DNA replication and transcription	MCMBP_1	KO24	MCMBP_1	4	PRJNA484931	SRR7653093	SINGLE	MCM-BPcKOstrain661-2	
+30407533	Genome-wide function of MCM-BP in Trypanosoma brucei DNA replication and transcription	MCMBP_1	KO48	MCMBP_1	1	PRJNA484931	SRR7653094	SINGLE	MCM-BPcKOstrain660-1	
+30407533	Genome-wide function of MCM-BP in Trypanosoma brucei DNA replication and transcription	MCMBP_1	KO48	MCMBP_1	2	PRJNA484931	SRR7653095	SINGLE	MCM-BPcKOstrain660-2	
+30407533	Genome-wide function of MCM-BP in Trypanosoma brucei DNA replication and transcription	MCMBP_1	KO48	MCMBP_1	3	PRJNA484931	SRR7653096	SINGLE	MCM-BPcKOstrain661-1	
+30407533	Genome-wide function of MCM-BP in Trypanosoma brucei DNA replication and transcription	MCMBP_1	KO48	MCMBP_1	4	PRJNA484931	SRR7653097	SINGLE	MCM-BPcKOstrain661-2	
+										
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	Control	H3H4_1	1	PRJNA727846	SRR14459737	PAIRED	WT(Control)	
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	Control	H3H4_1	2	PRJNA727846	SRR14459736	PAIRED	WT(Control)	
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	Control	H3H4_1	3	PRJNA727846	SRR14459725	PAIRED	WT(Control)	
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	KOJ2	H3H4_1	1	PRJNA727846	SRR14459714	PAIRED	JKO	
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	KOJ2	H3H4_1	2	PRJNA727846	SRR14459707	PAIRED	JKO	
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	KOJ2	H3H4_1	3	PRJNA727846	SRR14459706	PAIRED	JKO	
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	KOH3	H3H4_1	1	PRJNA727846	SRR14459705	PAIRED	H3vKO	
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	KOH3	H3H4_1	2	PRJNA727846	SRR14459704	PAIRED	H3vKO	
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	KOH3	H3H4_1	3	PRJNA727846	SRR14459703	PAIRED	H3vKO	
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	KOH4	H3H4_1	1	PRJNA727846	SRR14459733	PAIRED	H4vKO	
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	KOH4	H3H4_1	2	PRJNA727846	SRR14459732	PAIRED	H4vKO	
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	KOH4	H3H4_1	3	PRJNA727846	SRR14459731	PAIRED	H4vKO	
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	KOH3J	H3H4_1	1	PRJNA727846	SRR14459702	PAIRED	H3v/JKO	
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	KOH3J	H3H4_1	2	PRJNA727846	SRR14459735	PAIRED	H3v/JKO	
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	KOH3J	H3H4_1	3	PRJNA727846	SRR14459734	PAIRED	H3v/JKO	
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	KOH4J	H3H4_1	1	PRJNA727846	SRR14459730	PAIRED	H4v/JKO	
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	KOH4J	H3H4_1	2	PRJNA727846	SRR14459729	PAIRED	H4v/JKO	
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	KOH4J	H3H4_1	3	PRJNA727846	SRR14459728	PAIRED	H4v/JKO	
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	ControlUN	H3H4_2	1	PRJNA727846	SRR14459727	PAIRED	DKO-Tet(Control)	
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	ControlUN	H3H4_2	2	PRJNA727846	SRR14459726	PAIRED	DKO-Tet(Control)	
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	ControlUN	H3H4_2	3	PRJNA727846	SRR14459724	PAIRED	DKO-Tet(Control)	
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	KO48	H3H4_2	1	PRJNA727846	SRR14459723	PAIRED	DKO+Tet	
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	KO48	H3H4_2	2	PRJNA727846	SRR14459722	PAIRED	DKO+Tet	
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	KO48	H3H4_2	3	PRJNA727846	SRR14459721	PAIRED	DKO+Tet	
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	ControlUN	H3H4_3	1	PRJNA727846	SRR14459720	PAIRED	TKO-Tet(Control)	
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	ControlUN	H3H4_3	2	PRJNA727846	SRR14459719	PAIRED	TKO-Tet(Control)	
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	ControlUN	H3H4_3	3	PRJNA727846	SRR14459718	PAIRED	TKO-Tet(Control)	
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	KO48	H3H4_3	1	PRJNA727846	SRR14459717	PAIRED	TKO+Tet (triple ko H3v, H4v, JBP1, and JBP2 genes)	
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	KO48	H3H4_3	2	PRJNA727846	SRR14459716	PAIRED	TKO+Tet	
+34722526	Genetic Interaction Between Site-Specific Epigenetic Marks and Roles of H4v in Transcription Termination in Trypanosoma brucei	H3H4_1	KO48	H3H4_3	3	PRJNA727846	SRR14459715	PAIRED	TKO+Tet	
+										
+30543624	Ribonuclease H1-targeted R-loops in surface antigen gene expression sites can direct trypanosome immune evasion	RNaseH1_1	Control	RNaseH1_1	1	PRJEB21868	ERR2812445	PAIRED		
+30543624	Ribonuclease H1-targeted R-loops in surface antigen gene expression sites can direct trypanosome immune evasion	RNaseH1_1	KO	RNaseH1_1	1	PRJEB21868	ERR2812444	PAIRED		
+										
+31350892	Trypanosoma brucei ribonuclease H2A is an essential R-loop processing enzyme whose loss causes DNA damage during transcription initiation and antigenic variation	RNaseH2A_1	ControlUN	RNaseH2A_1	1	PRJEB22057	ERR3014707	PAIRED		
+31350892	Trypanosoma brucei ribonuclease H2A is an essential R-loop processing enzyme whose loss causes DNA damage during transcription initiation and antigenic variation	RNaseH2A_1	ControlUN	RNaseH2A_1	2	PRJEB22057	ERR3014708	PAIRED		
+31350892	Trypanosoma brucei ribonuclease H2A is an essential R-loop processing enzyme whose loss causes DNA damage during transcription initiation and antigenic variation	RNaseH2A_1	RNAi24	RNaseH2A_1	1	PRJEB22057	ERR3014709	PAIRED		
+31350892	Trypanosoma brucei ribonuclease H2A is an essential R-loop processing enzyme whose loss causes DNA damage during transcription initiation and antigenic variation	RNaseH2A_1	RNAi24	RNaseH2A_1	2	PRJEB22057	ERR3014710	PAIRED		
+31350892	Trypanosoma brucei ribonuclease H2A is an essential R-loop processing enzyme whose loss causes DNA damage during transcription initiation and antigenic variation	RNaseH2A_1	ControlUN	RNaseH2A_2	1	PRJEB22057	ERR3014711	PAIRED		
+31350892	Trypanosoma brucei ribonuclease H2A is an essential R-loop processing enzyme whose loss causes DNA damage during transcription initiation and antigenic variation	RNaseH2A_1	ControlUN	RNaseH2A_2	2	PRJEB22057	ERR3014712	PAIRED		
+31350892	Trypanosoma brucei ribonuclease H2A is an essential R-loop processing enzyme whose loss causes DNA damage during transcription initiation and antigenic variation	RNaseH2A_1	RNAi36	RNaseH2A_2	1	PRJEB22057	ERR3014713	PAIRED		
+31350892	Trypanosoma brucei ribonuclease H2A is an essential R-loop processing enzyme whose loss causes DNA damage during transcription initiation and antigenic variation	RNaseH2A_1	RNAi36	RNaseH2A_2	2	PRJEB22057	ERR3014714	PAIRED		
+										
+38019264	PI(3,4,5)P3 allosteric regulation of repressor activator protein 1 controls antigenic variation in trypanosomes 	PIP5Pase_2	Control	PIP5Pase_2	1	PRJNA934938	SRR23839022	NANOPORE		
+38019264	PI(3,4,5)P3 allosteric regulation of repressor activator protein 1 controls antigenic variation in trypanosomes 	PIP5Pase_2	Control	PIP5Pase_2	2	PRJNA934938	SRR23839021	NANOPORE		
+38019264	PI(3,4,5)P3 allosteric regulation of repressor activator protein 1 controls antigenic variation in trypanosomes 	PIP5Pase_2	Control	PIP5Pase_2	3	PRJNA934938	SRR23839020	NANOPORE		
+38019264	PI(3,4,5)P3 allosteric regulation of repressor activator protein 1 controls antigenic variation in trypanosomes 	PIP5Pase_2	D360A_N362A	PIP5Pase_2	1	PRJNA934938	SRR23839019	NANOPORE		
+38019264	PI(3,4,5)P3 allosteric regulation of repressor activator protein 1 controls antigenic variation in trypanosomes 	PIP5Pase_2	D360A_N362A	PIP5Pase_2	2	PRJNA934938	SRR23839018	NANOPORE		
+38019264	PI(3,4,5)P3 allosteric regulation of repressor activator protein 1 controls antigenic variation in trypanosomes 	PIP5Pase_2	D360A_N362A	PIP5Pase_2	3	PRJNA934938	SRR23839017	NANOPORE		
+										
+38783162	Protein phosphatase PP1 regulation of RNA polymerase II transcription termination and allelic exclusion of VSG genes in trypanosomes	TbPP1one_1	RNAi24	TbPP1one_1	1	PRJNA1026550	SRR26338092	PAIRED		
+38783162	Protein phosphatase PP1 regulation of RNA polymerase II transcription termination and allelic exclusion of VSG genes in trypanosomes	TbPP1one_1	RNAi24	TbPP1one_1	2	PRJNA1026550	SRR26338093	PAIRED		
+38783162	Protein phosphatase PP1 regulation of RNA polymerase II transcription termination and allelic exclusion of VSG genes in trypanosomes	TbPP1one_1	RNAi24	TbPP1one_1	3	PRJNA1026550	SRR26338094	PAIRED		
+38783162	Protein phosphatase PP1 regulation of RNA polymerase II transcription termination and allelic exclusion of VSG genes in trypanosomes	TbPP1one_1	Control	TbPP1one_1	1	PRJNA1026550	SRR26338096	PAIRED		
+38783162	Protein phosphatase PP1 regulation of RNA polymerase II transcription termination and allelic exclusion of VSG genes in trypanosomes	TbPP1one_1	Control	TbPP1one_1	2	PRJNA1026550	SRR26338091	PAIRED		
+38783162	Protein phosphatase PP1 regulation of RNA polymerase II transcription termination and allelic exclusion of VSG genes in trypanosomes	TbPP1one_1	Control	TbPP1one_1	3	PRJNA1026550	SRR26338095	PAIRED		
+38783162	Protein phosphatase PP1 regulation of RNA polymerase II transcription termination and allelic exclusion of VSG genes in trypanosomes	TbPP1one_1	Control	TbPP1seven_1	1	PRJNA1026550	SRR26338086	PAIRED		
+38783162	Protein phosphatase PP1 regulation of RNA polymerase II transcription termination and allelic exclusion of VSG genes in trypanosomes	TbPP1one_1	Control	TbPP1seven_1	2	PRJNA1026550	SRR26338087	PAIRED		
+38783162	Protein phosphatase PP1 regulation of RNA polymerase II transcription termination and allelic exclusion of VSG genes in trypanosomes	TbPP1one_1	Control	TbPP1seven_1	3	PRJNA1026550	SRR26338085	PAIRED		
+38783162	Protein phosphatase PP1 regulation of RNA polymerase II transcription termination and allelic exclusion of VSG genes in trypanosomes	TbPP1one_1	RNAi24	TbPP1seven_1	1	PRJNA1026550	SRR26338088	PAIRED		
+38783162	Protein phosphatase PP1 regulation of RNA polymerase II transcription termination and allelic exclusion of VSG genes in trypanosomes	TbPP1one_1	RNAi24	TbPP1seven_1	2	PRJNA1026550	SRR26338089	PAIRED		
+38783162	Protein phosphatase PP1 regulation of RNA polymerase II transcription termination and allelic exclusion of VSG genes in trypanosomes	TbPP1one_1	RNAi24	TbPP1seven_1	3	PRJNA1026550	SRR26338090	PAIRED		
+										
+34161395	Novel aspects of iron homeostasis in pathogenic bloodstream form Trypanosoma brucei	TFR_1	Control	DFO_1	1	PRJNA671512	SRR12886090	PAIRED		
+34161395	Novel aspects of iron homeostasis in pathogenic bloodstream form Trypanosoma brucei	TFR_1	Control	DFO_1	2	PRJNA671512	SRR12886089	PAIRED		
+34161395	Novel aspects of iron homeostasis in pathogenic bloodstream form Trypanosoma brucei	TFR_1	Control	DFO_1	3	PRJNA671512	SRR12886080	PAIRED		
+34161395	Novel aspects of iron homeostasis in pathogenic bloodstream form Trypanosoma brucei	TFR_1	DFO	DFO_1	1	PRJNA671512	SRR12886079	PAIRED		
+34161395	Novel aspects of iron homeostasis in pathogenic bloodstream form Trypanosoma brucei	TFR_1	DFO	DFO_1	2	PRJNA671512	SRR12886078	PAIRED		
+34161395	Novel aspects of iron homeostasis in pathogenic bloodstream form Trypanosoma brucei	TFR_1	DFO	DFO_1	3	PRJNA671512	SRR12886077	PAIRED		
+34161395	Novel aspects of iron homeostasis in pathogenic bloodstream form Trypanosoma brucei	TFR_1	DFOFe	DFO_1	1	PRJNA671512	SRR12886076	PAIRED		
+34161395	Novel aspects of iron homeostasis in pathogenic bloodstream form Trypanosoma brucei	TFR_1	DFOFe	DFO_1	2	PRJNA671512	SRR12886075	PAIRED		
+34161395	Novel aspects of iron homeostasis in pathogenic bloodstream form Trypanosoma brucei	TFR_1	DFOFe	DFO_1	3	PRJNA671512	SRR12886074	PAIRED		
+34161395	Novel aspects of iron homeostasis in pathogenic bloodstream form Trypanosoma brucei	TFR_1	Fe	DFO_1	1	PRJNA671512	SRR12886073	PAIRED		
+34161395	Novel aspects of iron homeostasis in pathogenic bloodstream form Trypanosoma brucei	TFR_1	Fe	DFO_1	2	PRJNA671512	SRR12886088	PAIRED		
+34161395	Novel aspects of iron homeostasis in pathogenic bloodstream form Trypanosoma brucei	TFR_1	Fe	DFO_1	3	PRJNA671512	SRR12886087	PAIRED		
+34161395	Novel aspects of iron homeostasis in pathogenic bloodstream form Trypanosoma brucei	TFR_1	Control	TFR_1	1	PRJNA671512	SRR12886086	SINGLE		
+34161395	Novel aspects of iron homeostasis in pathogenic bloodstream form Trypanosoma brucei	TFR_1	Control	TFR_1	2	PRJNA671512	SRR12886085	SINGLE		
+34161395	Novel aspects of iron homeostasis in pathogenic bloodstream form Trypanosoma brucei	TFR_1	Control	TFR_1	3	PRJNA671512	SRR12886084	SINGLE		
+34161395	Novel aspects of iron homeostasis in pathogenic bloodstream form Trypanosoma brucei	TFR_1	RNAi24	TFR_1	1	PRJNA671512	SRR12886083	SINGLE		
+34161395	Novel aspects of iron homeostasis in pathogenic bloodstream form Trypanosoma brucei	TFR_1	RNAi24	TFR_1	2	PRJNA671512	SRR12886082	SINGLE		
+34161395	Novel aspects of iron homeostasis in pathogenic bloodstream form Trypanosoma brucei	TFR_1	RNAi24	TFR_1	3	PRJNA671512	SRR12886081	SINGLE		
+										
+36454008	The RNA-binding protein RBP33 dampens non-productive transcription in trypanosomes 	RBP33_1	Control	RBP33_1	1	PRJNA774552	SRR16573965	PAIRED	BSF	
+36454008	The RNA-binding protein RBP33 dampens non-productive transcription in trypanosomes 	RBP33_1	Control	RBP33_1	2	PRJNA774552	SRR16573966	PAIRED	BSF	
+36454008	The RNA-binding protein RBP33 dampens non-productive transcription in trypanosomes 	RBP33_1	Control	RBP33_1	3	PRJNA774552	SRR16573967	PAIRED	BSF	
+36454008	The RNA-binding protein RBP33 dampens non-productive transcription in trypanosomes 	RBP33_1	RNAi48	RBP33_1	1	PRJNA774552	SRR16573968	PAIRED	BSF	
+36454008	The RNA-binding protein RBP33 dampens non-productive transcription in trypanosomes 	RBP33_1	RNAi48	RBP33_1	2	PRJNA774552	SRR16573969	PAIRED	BSF	
+36454008	The RNA-binding protein RBP33 dampens non-productive transcription in trypanosomes 	RBP33_1	RNAi48	RBP33_1	3	PRJNA774552	SRR16573970	PAIRED	BSF	
+36454008	The RNA-binding protein RBP33 dampens non-productive transcription in trypanosomes 	RBP33_1	Control	RBP33_2	1	PRJNA774552	SRR16573971	PAIRED	PCF	
+36454008	The RNA-binding protein RBP33 dampens non-productive transcription in trypanosomes 	RBP33_1	Control	RBP33_2	2	PRJNA774552	SRR16573972	PAIRED	PCF	
+36454008	The RNA-binding protein RBP33 dampens non-productive transcription in trypanosomes 	RBP33_1	Control	RBP33_2	3	PRJNA774552	SRR16573973	PAIRED	PCF	
+36454008	The RNA-binding protein RBP33 dampens non-productive transcription in trypanosomes 	RBP33_1	RNAi48	RBP33_2	1	PRJNA774552	SRR16573974	PAIRED	PCF	
+36454008	The RNA-binding protein RBP33 dampens non-productive transcription in trypanosomes 	RBP33_1	RNAi48	RBP33_2	2	PRJNA774552	SRR16573975	PAIRED	PCF	
+36454008	The RNA-binding protein RBP33 dampens non-productive transcription in trypanosomes 	RBP33_1	RNAi48	RBP33_2	3	PRJNA774552	SRR16573976	PAIRED	PCF	
