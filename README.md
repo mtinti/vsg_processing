@@ -28,6 +28,8 @@ vsg_processing/
 
 > **Note**: The `de_analysis` directory is populated when the pipeline runs.
 
+The `prepare_data_and_plots.ipynb` notebook can be run end-to-end to execute the same processing script that powers the pipeline, regenerate the curated datasets, and build the Plotly scatter plot visualisations that are embedded within the VSGs web server.
+
 ## End-to-end workflow
 
 1. **Collect metadata** – `experiment_table.txt` captures SRA accessions, experimental groups, and run-level details. This file underpins the automation of control/treatment pairing and sample exclusion.
