@@ -468,3 +468,6 @@ PMID	Title	Folder_Info	Proposedcondition	Proposed_Experiment_Name	Proposed_repli
 36454008	The RNA-binding protein RBP33 dampens non-productive transcription in trypanosomes 	RBP33_1	RNAi48	RBP33_2	1	PRJNA774552	SRR16573974	PAIRED	PCF	
 36454008	The RNA-binding protein RBP33 dampens non-productive transcription in trypanosomes 	RBP33_1	RNAi48	RBP33_2	2	PRJNA774552	SRR16573975	PAIRED	PCF	
 36454008	The RNA-binding protein RBP33 dampens non-productive transcription in trypanosomes 	RBP33_1	RNAi48	RBP33_2	3	PRJNA774552	SRR16573976	PAIRED	PCF	
+
+30040830	The mRNA cap methyltransferase gene TbCMT1 is not essential in vitro but is a virulence factor in vivo for bloodstream form Trypanosoma brucei 	TbCMT1	KO	TbCMT1_1	1	PRJNA449620	SRR6982814	PAIRED	BSF	
+30040830	The mRNA cap methyltransferase gene TbCMT1 is not essential in vitro but is a virulence factor in vivo for bloodstream form Trypanosoma brucei 	TbCMT1	Control	TbCMT1_1	1	PRJNA449620	SRR6982815	PAIRED	BSF	

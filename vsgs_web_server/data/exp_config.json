@@ -873,6 +873,21 @@
         "title": "Trypanosoma brucei ATR Links DNA Damage Signaling during Antigenic Variation with Regulation of RNA Polymerase I-Transcribed Surface Antigens",
         "fastq_type": "paired"
     },
+    "TbCMT1_1_KO": {
+        "experiment": "TbCMT1_1_KO",
+        "controls": [
+            "SRR6982815"
+        ],
+        "treatments": [
+            "SRR6982814"
+        ],
+        "top_vsg": [
+            "Tb427VSG-2"
+        ],
+        "pubmed_id": 30040830,
+        "title": "The mRNA cap methyltransferase gene TbCMT1 is not essential in vitro but is a virulence factor in vivo for bloodstream form Trypanosoma brucei ",
+        "fastq_type": "paired"
+    },
     "TbESB1_1_RNAi24": {
         "experiment": "TbESB1_1_RNAi24",
         "controls": [
