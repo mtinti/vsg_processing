@@ -34,6 +34,14 @@ logger = logging.getLogger(__name__)
 # Suppress pandas warnings
 warnings.filterwarnings('ignore', category=pd.errors.PerformanceWarning)
 
+
+exclude_vsg = []
+#exclude_vsg+=open('exclude_array.txt').read().split('\n')
+#exclude_vsg+=open('exclude_MC.txt').read().split('\n')
+#exclude_vsg+=open('exclude_count.txt').read().split('\n')
+len(exclude_vsg)
+
+
 def make_desc(_GFF):
     gff =pd.read_csv( _GFF, sep='\t', header=None, comment='#')
     #print(gff)
@@ -179,7 +187,7 @@ class VSGAnalysisPipeline:
             DataFrame with count data
         """
         tmp = pd.read_csv(file_path, sep='\t', comment='#')
-        
+        tmp = tmp[~tmp['Chr'].isin(exclude_vsg)]
         if filter_vsg:
             tmp = tmp[tmp['Chr'].str.startswith('Tb427VSG-')]
         

@@ -1,0 +1,21 @@
+main vsg is 22 exclude because present in MC and Array
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	RNAi9	ZC3H5_1	1	PRJEB38366	ERR4160685	SINGLE		STRANDED
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	RNAi9	ZC3H5_1	2	PRJEB38366	ERR4160687	SINGLE		STRANDED
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	RNAi12	ZC3H5_1	1	PRJEB38366	ERR4160684	SINGLE		STRANDED
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	RNAi12	ZC3H5_1	2	PRJEB38366	ERR4160686	SINGLE		STRANDED
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	ControlUN	ZC3H5_2	1	PRJEB33092	ERR3380213	SINGLE	Polysomectrlfree	STRANDED
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	ControlUN	ZC3H5_2	2	PRJEB33092	ERR3380217	SINGLE	Polysomectrlfree	STRANDED
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	ControlUN	ZC3H5_3	1	PRJEB33092	ERR3380216	SINGLE	Polysomectrlmonosome	STRANDED
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	ControlUN	ZC3H5_3	2	PRJEB33092	ERR3380220	SINGLE	Polysomectrlmonosome	STRANDED
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	ControlUN	ZC3H5_4	1	PRJEB33092	ERR3380215	SINGLE	Polysomectrllight	
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	ControlUN	ZC3H5_4	2	PRJEB33092	ERR3380219	SINGLE	Polysomectrllight	
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	ControlUN	ZC3H5_5	1	PRJEB33092	ERR3380214	SINGLE	Polysomectrlheavy	
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	ControlUN	ZC3H5_5	2	PRJEB33092	ERR3380218	SINGLE	Polysomectrlheavy
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	RNAi12	ZC3H5_2	1	PRJEB33092	ERR3380229	SINGLE	PolysomeZC3H5RNAifree
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	RNAi12	ZC3H5_2	2	PRJEB33092	ERR3380233	SINGLE	PolysomeZC3H5RNAifree
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	RNAi12	ZC3H5_3	1	PRJEB33092	ERR3380232	SINGLE	PolysomeZC3H5RNAimonosome
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	RNAi12	ZC3H5_3	2	PRJEB33092	ERR3380236	SINGLE	PolysomeZC3H5RNAimonosome	
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	RNAi12	ZC3H5_4	1	PRJEB33092	ERR3380231	SINGLE	PolysomeZC3H5RNAilight	STRANDED
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	RNAi12	ZC3H5_4	2	PRJEB33092	ERR3380235	SINGLE	PolysomeZC3H5RNAilight	STRANDED
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	RNAi12	ZC3H5_5	1	PRJEB33092	ERR3380230	SINGLE	PolysomeZC3H5RNAiheavy	STRANDED
+32763974	A potential role for a novel ZC3H5 complex in regulating mRNA translation in Trypanosoma brucei	ZC3H5_1	RNAi12	ZC3H5_5	2	PRJEB33092	ERR3380234	SINGLE	PolysomeZC3H5RNAiheavy	STRANDED
